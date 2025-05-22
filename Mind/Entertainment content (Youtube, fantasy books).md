@@ -46,3 +46,16 @@ Cons:
 
 
 <h3>Content is relevant</h3>
+
+Content is a way to learn more about the things that are happening in the world. Memes, news, videos casually mentioning the events - they all let me know what's going on in the world and make me understand the jokes and worries of people around me. I am more relevant consuming content.
+
+Pro's
+- It makes me more like others
+	- I understand people around me. I get what they're talking about, their jokes and worries. But can't I get all that through just talking to my friends. Wouldn't that be another topic to talk about, another reason to meet and another way they help me, thus strengthening our bond?
+	- People understand me. I'm speaking in relevant language.
+	- I seem more like them. Internet slang and memes help me get into their "people-who-just-get-it" group immediately. 
+- In a more artistic point of view, it's a portal into the mind of the society as a whole. The fact that I see a fun meme means it got popular enough to get to me, which means A LOT of people found it relatable. It's a kind of art really. The new form of interactive art that is being formed and molded by society as an entity.
+Cons
+- It feeds me relevant agenda and does so in a way in which I can't even doubt it.
+- It makes me more like others. I have more to agree on, but less to offer. I and my ideas are less unique, more standardized, because I am being taught to think in some way propagated by media, and everyone else is taught the very same way. 
+- Media is a bubble. and that
