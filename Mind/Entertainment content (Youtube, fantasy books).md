@@ -27,7 +27,7 @@ Pro's
 - Art is my life.
 - It's my favorite way of communication and discovering the world.
 - It's fun. And the kind of fun that leaves you fulfilled, not empty.
-- It makes me exited. Even while writing this I felt excitement in my throat.
+- It makes me excited. Even while writing this I felt excitement in my throat.
 - It makes me an interesting person.
 -  Consuming art = learning and getting better at it... So by proxy art:
 	- It's important to the WORLD. It's literally my best chance at influencing the world for the better with my morals and ideals intact.
