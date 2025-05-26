@@ -4,3 +4,12 @@ Good luck and don't get lost :)
 
 My ideas: [[!deas]]
 
+TODO lists:
+- [[To Explore]]
+
+Defining things:
+- Addictive:
+	- [[Entertainment content (Youtube, fantasy books)]]
+	- [[Alcohol]]
+- Art:
+	- [[Authenticity]]
