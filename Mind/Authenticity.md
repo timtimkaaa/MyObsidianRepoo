@@ -1,0 +1,1 @@
+When art is authentic (!= pretending) it hits us bc/ its universal. We are all same on the very inside
