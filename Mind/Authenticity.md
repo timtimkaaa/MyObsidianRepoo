@@ -1,3 +1,7 @@
+Return: [[Mind core]]
+
+
+
 \[aw-then-tis-i-tee] IPA - noun
 \- the quality of being authentic; genuineness;
 \- the quality of being real or true.
