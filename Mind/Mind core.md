@@ -6,10 +6,6 @@ My ideas: [[!deas]]
 
 TODO lists:
 - [[To Explore]]
-- [[To Write]]
-
-Philosophy:
-- [[On being the most evolved and smart person]]
 
 Defining things:
 - Addictive:
@@ -17,6 +13,3 @@ Defining things:
 	- [[Alcohol]]
 - Art:
 	- [[Authenticity]]
-- My attitude towards:
-	- [[NEW Industrial revolution]]
-
