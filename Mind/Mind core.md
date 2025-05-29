@@ -21,3 +21,6 @@ Defining things:
 	- [[NEW Industrial revolution]]
 	- [[NEW A smart man learns from the mistakes of others]]
 
+Working to better myself:
+- [[NEW my ways of fighting content addiction]]
+
