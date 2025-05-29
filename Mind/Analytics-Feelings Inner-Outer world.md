@@ -1,7 +1,7 @@
 Return: [[Mind core]]
 
-| Outer World |     |     |          |
-| ----------- | --- | --- | -------- |
-| Feelings    |     |     | Emotions |
-|             |     |     |          |
-| Inner World |     |     |          |
+|          | Outer     | World |          |
+| -------- | --------- | ----- | -------- |
+| Feelings |           |       | Emotions |
+|          |           |       |          |
+|          | **Inner** | World |          |
