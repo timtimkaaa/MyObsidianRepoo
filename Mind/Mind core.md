@@ -19,4 +19,5 @@ Defining things:
 	- [[Authenticity]]
 - My attitude towards:
 	- [[NEW Industrial revolution]]
+	- [[NEW A smart man learns from the mistakes of others]]
 
