@@ -1,4 +1,5 @@
 Return: [[Mind core]]
 
-|   |Outer World|
-|Feelings   |   |
+|             |Outer World|                |
+-----------------------------------|
+|Feelings|          |         | Emotions|
