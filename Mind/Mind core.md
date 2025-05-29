@@ -23,5 +23,3 @@ Defining things:
 
 Working to better myself:
 - [[NEW my ways of fighting content addiction]]
-
-Check
