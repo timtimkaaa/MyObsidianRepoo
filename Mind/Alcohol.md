@@ -1,3 +1,5 @@
+#addiction #habbits
+
 Return: [[Mind core]]
 
 <p>Being 19yo in summer 2025 I feel like I'm starting to really enjoy alcohol. I wouldn't say I'm worried about getting addicted to it. I don't like it that much. But I do feel like I'm using it without giving too much thought to it, and I think that's a little irresponsible.</p> 
