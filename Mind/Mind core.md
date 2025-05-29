@@ -20,6 +20,7 @@ Defining things:
 - My attitude towards:
 	- [[NEW Industrial revolution]]
 	- [[NEW A smart man learns from the mistakes of others]]
+	- [[NEW Consciousness is what allows me to get  better]]
 
 Working to better myself:
 - [[NEW my ways of fighting content addiction]]
