@@ -1,4 +1,4 @@
-#attitude #worldview #phylosophy
+#attitude #worldview 
 
 Return: [[Mind core]]
 

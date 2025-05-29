@@ -22,6 +22,8 @@ Defining things:
 	- [[NEW A smart man learns from the mistakes of others]]
 	- [[NEW Consciousness is what allows me to get better]]
 	- [[NEW Ruthless Improvement]]
+- Worldview:
+	- [[Analytics-Feelings, Inner-Outer world]]
 
 Working to better myself:
 - [[NEW my ways of fighting content addiction]]
