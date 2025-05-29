@@ -5,3 +5,4 @@ Return: [[Mind core]]
 | **Feelings** | Spirituality | Technical Sciences |               |
 |              | Art          | Human Sciences     | **Analytics** |
 |              | **Inner**    | **World**          |               |
+
