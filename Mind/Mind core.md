@@ -20,6 +20,8 @@ Defining things:
 - My attitude towards:
 	- [[NEW Industrial revolution]]
 	- [[NEW A smart man learns from the mistakes of others]]
+- Classifications:
+	- [[Analytics-Feelings Inner-Outer world]]
 
 Working to better myself:
 - [[NEW my ways of fighting content addiction]]
