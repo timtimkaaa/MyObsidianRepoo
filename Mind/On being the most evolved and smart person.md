@@ -6,7 +6,9 @@ From there I came back to a seemingly old idea I realized myself and noticed in 
 
 But more importantly I had this idea about myself. If I become the best or invent a new genre of music that no one's ever heard, I'm going to be so happy. What I have come to realize is 'I don't need it'.
 
-### Art is a re
+### Art is a reaction
+
+The new genres form and get pop as a reaction to the state of the world 
 
 
 
