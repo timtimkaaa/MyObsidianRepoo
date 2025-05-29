@@ -16,11 +16,12 @@ Defining things:
 	- [[Entertainment content (Youtube, fantasy books)]]
 	- [[Alcohol]]
 - Art:
-	- [[Authenticity]]
+	- [[NEW Authenticity]]
 - My attitude towards:
 	- [[NEW Industrial revolution]]
 	- [[NEW A smart man learns from the mistakes of others]]
-	- [[NEW Consciousness is what allows me to get  better]]
+	- [[NEW Consciousness is what allows me to get better]]
+	- [[NEW Ruthless Improvement]]
 
 Working to better myself:
 - [[NEW my ways of fighting content addiction]]
