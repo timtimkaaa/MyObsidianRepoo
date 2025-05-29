@@ -6,7 +6,7 @@ From there I came back to a seemingly old idea I realized myself and noticed in 
 
 As of **29.05.2025** I don't really enjoy or support this idea.
 
-I think that 
+I 
 <hr>
 
 https://en.wikipedia.org/wiki/Meliorism
