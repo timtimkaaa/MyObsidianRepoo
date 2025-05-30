@@ -1,5 +1,3 @@
-#addiction #content #art #habbits 
-
 Return: [[Mind core]]
 
 At this point of my life (19yo / Summer 2025) I have a media content addiction. So as a part of fighting against it, I want to figure out, what this content is, and in what way it's important to me.

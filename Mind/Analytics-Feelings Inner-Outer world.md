@@ -1,5 +1,3 @@
-#worldview
-
 Return: [[Mind core]]
 
 |                                   | Outer<br><br><br><br> | World                 |                                |

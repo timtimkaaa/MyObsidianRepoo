@@ -1,0 +1,1 @@
+- Get on a random bus without a phone Nd get home only using directions from people

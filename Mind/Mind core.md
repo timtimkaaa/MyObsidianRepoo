@@ -7,6 +7,7 @@ My ideas: [[!deas]]
 TODO lists:
 - [[To Explore]]
 - [[To Write]]
+- [[On a boring day]]
 
 Philosophy:
 - [[On being the most evolved and smart person]]
@@ -16,14 +17,11 @@ Defining things:
 	- [[Entertainment content (Youtube, fantasy books)]]
 	- [[Alcohol]]
 - Art:
-	- [[NEW Authenticity]]
+	- [[Authenticity]]
 - My attitude towards:
 	- [[NEW Industrial revolution]]
 	- [[NEW A smart man learns from the mistakes of others]]
-	- [[NEW Consciousness is what allows me to get better]]
-	- [[NEW Ruthless Improvement]]
-- Worldview:
-	- [[Analytics-Feelings, Inner-Outer world]]
+	- [[NEW Consciousness is what allows me to get  better]]
 
 Working to better myself:
 - [[NEW my ways of fighting content addiction]]
