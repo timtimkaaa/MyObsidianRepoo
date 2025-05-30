@@ -5,3 +5,4 @@ cssclasses:
 banner_x: "0.5"
 banner_y: 0,479
 ---
+[[Mind core]]
