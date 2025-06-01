@@ -1,6 +1,9 @@
-#worldview
+*2025-06-01*
 
-Return: [[Mind core]]
+*Status:* New
+
+*Tags:* #worldview 
+
 
 |                                   | Outer<br><br><br><br> | World                 |                                |
 | --------------------------------- | --------------------- | --------------------- | ------------------------------ |
@@ -8,3 +11,4 @@ Return: [[Mind core]]
 |                                   | Art                   | Human Sciences        | .                **Analytics** |
 |                                   | <br><br><br>**Inner** | <br><br><br>**World** |                                |
 
+### References

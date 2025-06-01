@@ -1,4 +1,8 @@
-#attitude #worldview 
+*2025-06-01*
+
+*Status:* Complete for now
+
+*Tags:* #attitude #worldview 
 
 Return: [[Mind core]]
 
@@ -27,3 +31,4 @@ I think just like in art, my goals should be formed more as a reaction to the st
 What's important is to constantly check what dreams I'm following and if they're in line with my actual need. And not get mindlessly jealous of the people with their goals fulfilled - they already have new ones, and that was only good for *them* at the *right time*.
 
 
+### References

@@ -1,4 +1,8 @@
-#addiction #content #art #habbits 
+*2025-06-01*
+
+*Status:* Complete for now
+
+*Tags:* #addiction #content #art #habbits 
 
 Return: [[Mind core]]
 
@@ -63,3 +67,6 @@ Cons
 - It feeds me relevant agenda and does so in a way in which I can't even doubt it.
 - It makes me more like others. I have more to agree on, but less to offer. I and my ideas are less unique, more standardized, because I am being taught to think in some way propagated by media, and everyone else is taught the very same way. 
 - Media is a bubble. and I can't see the whole picture with it. It's only the stuff the algorithm shows me. It's an illusion of choice, where I choose what to watch, but only out of the options the algorithm provides me with.
+
+
+### References

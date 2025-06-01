@@ -1,6 +1,8 @@
-#addiction #habbits
+*2025-06-01*
 
-Return: [[Mind core]]
+*Status:* Complete for now
+
+*Tags:* #addiction #habbits 
 
 <p>Being 19yo in summer 2025 I feel like I'm starting to really enjoy alcohol. I wouldn't say I'm worried about getting addicted to it. I don't like it that much. But I do feel like I'm using it without giving too much thought to it, and I think that's a little irresponsible.</p> 
 <p>So I want to write out all the things that alcohol makes me feel and all the problems it solves, so that I know how I can achieve goals in question without alcohol. Or if there are issues for which alcohol is the best solution (I don't think there are), I will know when I really should resort to it.</p>
@@ -23,3 +25,5 @@ Cons
 	- I can accidentally make someone feel bad.
 	- I can scare someone away before we form a bond that would make them stay.
 	- I can say stuff I don't mean and ruin a relationship.
+
+### References

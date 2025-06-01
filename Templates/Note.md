@@ -1,10 +1,11 @@
-{{date}} {{time}}
+*{{date}}*
 
-Status: 
+*Status:* New
 
-Tags: 
+*Tags:* 
 
-# {{Title}}
+
+
 
 
 ### References
