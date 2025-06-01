@@ -1,0 +1,4 @@
+- [[NEW Industrial revolution]]
+- [[NEW A smart man learns from the mistakes of others]]
+- [[NEW Consciousness is what allows me to get better]]
+- [[NEW Ruthless Improvement]]
