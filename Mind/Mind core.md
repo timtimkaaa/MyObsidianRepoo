@@ -5,11 +5,13 @@ Good luck and don't get lost :)
 My ideas: [[!deas]]
 
 TODO lists:
-- [[To Explore]]
-- [[To Write]]
+
+
+//- [[To Explore]]
+//- [[To Write]]
 
 Philosophy:
-- [[On being the most evolved and smart person]]
+- 
 
 Defining things:
 - Addictive:

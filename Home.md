@@ -7,33 +7,33 @@ banner_y: 1
 ---
 # Choose your journey...
 
-- 🧠 Mind and inner world
-	- [[Attitudes]]
-	- [[Structuring ]]
-	- [[Emotions]]
-	- [[Study Spirituality]]
-	- [[Study Philosophy]]
-	- [[Study Mini-essays]]
+- Studying
+	- [[]]
+- 📖Reading
 - 🎨 Art
 	- [[Art Mini-essays]]
 	- [[Art !deas]]
 	- [[Art Gallery]]
-	- [[Study Music]]
-	- [[Study Art]]
 - 📲 UX
 	- [[Study UX]]
 	- [[UX Portfolio]]
 
-# About vault
+
+	- [[Attitudes]]
+	- [[Structuring my mind]]
+	- [[Emotions]]
+
+# Other stuff
 
 - 🗃️ Recent file updates: 
 	`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
-- TODOs:
-`$=dv.list(dv.pages('"TODOs"').sort(f=>f.file.mtime.ts,"desc").file.link)`
-- ☕ Brewing
-- 📊 Stats
+- ✅ TODOs: 
+`$=dv.list(dv.pages('"Remote/TODOs"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+- ☕ Brewing:
+`$=dv.list(dv.pages('"Remote/Projects in progress"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+- 📊 Stats:
 	- Total Files: `$=dv.pages().length` 
-	- Music: `$=dv.pages('"Mind"').length`
-	- Sermon Notes: `$=dv.pages('"Sermon Notes"').length`
-	- Inbox Items: `$=dv.pages('"Inbox"').length`
-	- Journal Entries: `$=dv.pages('"Daily Notes"').length`
+	- Inbox Items: `$=dv.pages('"Remote/Inbox"').length`
+	- Music: `$=dv.pages('"Remote/Music"').length`
+	- Mini-essays: `$=dv.pages('#mini-esssay').length`
+	- UX: `$=dv.pages('"Remote/UX"').length`
