@@ -23,4 +23,3 @@ Cons
 	- I can accidentally make someone feel bad.
 	- I can scare someone away before we form a bond that would make them stay.
 	- I can say stuff I don't mean and ruin a relationship.
-- 
