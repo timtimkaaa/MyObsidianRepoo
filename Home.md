@@ -10,29 +10,31 @@ banner_y: 1
 - Studying
 	- 
 - 📖Reading
-	- [[Man And His Symbols - Carl Jung]]
-- 🎨 Art
-	- [[Art Reviews]]
-	- [[Art !deas]]
-	- [[Art Gallery]]
+	- [[NEW Man And His Symbols - Carl Jung]]
 - 📲 UX
 	- [[UX to learn]]
 	- [[TO]]
 	- [[UX Portfolio]]
-
-
+- 🎨 Art
+	- [[Art !deas]]
+	- [[Art Gallery]]
+- 🧾 Latest art reviews
+`$=dv.list(dv.pages('"All/Art/Reviews"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+- Stuff
 	- [[Attitudes]]
 	- [[Structuring my mind]]
 	- [[Emotions]]
 
 # Other stuff
 
-- 🗃️ Recent file updates: 
-	`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+- 📮 Inbox: 
+	`$=dv.list(dv.pages('"All/Inbox"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - ✅ TODOs: 
 `$=dv.list(dv.pages('"All/TODOs"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - ☕ Brewing:
 `$=dv.list(dv.pages('"All/Projects in progress"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+- 🗃️ Oldest file updates: 
+	`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"asc").limit(4).file.link)`
 - 📊 Stats:
 	- Total Files: `$=dv.pages().length` 
 	- Inbox Items: `$=dv.pages('"All/Inbox"').length`
