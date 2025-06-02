@@ -30,7 +30,7 @@ banner_y: 1
 # Other stuff
 
 - 📮 Inbox: 
-	`$=dv.list(dv.pages('"All/Inbox"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+`$=dv.list(dv.pages('"All/Inbox"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - ✅ TODOs: 
 `$=dv.list(dv.pages('"All/TODOs"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - ☕ Brewing:
