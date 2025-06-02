@@ -7,9 +7,11 @@ banner_y: 1
 ---
 # Choose your journey...
 
-- Studying
-	- 
-- 📖Reading
+- 📝 Notes
+	- Learning: `$=dv.pages('"All/Learning"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
+	- Mind: `$=dv.pages('"All/Mind"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
+	- Drinks: `$=dv.pages('"All/Teas"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
+- 📖 Reading
 	- [[NEW Man And His Symbols - Carl Jung]]
 - 📲 UX
 	- [[UX to learn]]
