@@ -13,6 +13,7 @@ banner_y: 1
 	- Drinks: `$=dv.pages('"All/Teas"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 - 📖 Reading
 	- [[NEW Man And His Symbols - Carl Jung]]
+	- [[Moychay]]
 - 📲 UX
 	- [[UX to learn]]
 	- [[TO]]
