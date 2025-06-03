@@ -8,7 +8,7 @@ banner_y: 1
 # Choose your journey...
 
 - 📝 Notes
-	- Learning: `$=dv.pages('"All/Learning"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
+	- Knowledge: `$=dv.pages('"All/Knowledge"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 	- Mind: `$=dv.pages('"All/Mind"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 	- Drinks: `$=dv.pages('"All/Teas"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 - 📖 Reading
