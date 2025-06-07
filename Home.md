@@ -10,14 +10,10 @@ banner_y: 1
 - 📝 Notes
 	- Knowledge: `$=dv.pages('"All/Knowledge"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 	- Mind: `$=dv.pages('"All/Mind"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
-	- Drinks: `$=dv.pages('"All/Teas"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
+	- Drinks: `$=dv.pages('"All/Food and drinks/Drinks"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 - 📖 Reading
 	- [[NEW Man And His Symbols - Carl Jung]]
 	- [[Moychay]]
-- 🚑 First aid toolkit:
-	- [[Reasons to live and not consume rn]]
-	- [[Checklist of things to feel happy right now]]
-	
 - 📲 UX
 	- [[UX to learn]]
 	- [[TO]]
