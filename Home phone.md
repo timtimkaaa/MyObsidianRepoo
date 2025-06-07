@@ -1,12 +1,8 @@
 ---
 banner: "![[flowersjpg.jpg]]"
 ---
----
-banner: "![[flowersjpg.jpg]]"
-cssclasses:
-  - dashboard
-banner_x: "0.5"
-banner_y: 1
+
+
 ---
 # Choose your journey...
 
