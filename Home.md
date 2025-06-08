@@ -8,19 +8,29 @@ banner_y: 1
 # Choose your journey...
 
 - 📝 Notes
-	- Knowledge: `$=dv.pages('"All/Knowledge"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
-	- Mind: `$=dv.pages('"All/Mind"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
-	- Drinks: `$=dv.pages('"All/Food and drinks/Drinks"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
-- 📖 Reading
-	- [[NEW Man And His Symbols - Carl Jung]]
-	- [[Moychay]]
+	- Knowledge: `$=dv.pages('"All/Knowledge"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`  
+	<br>
+	- Mind: `$=dv.pages('"All/Mind"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link` 
+	<br>
+	- Drinks: `$=dv.pages('"All/Food and drinks/Drinks"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link` 
+	<br>
+
+
+- 📖 Studying
+`$=dv.list(dv.pages('"All/Studying"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+	
 - 📲 UX
 	- [[UX to learn]]
-	- [[TO]]
+	<br>
+	- [[ToDo]]
+<br>
 	- [[UX Portfolio]]
+<br>
 - 🎨 Art
 	- [[Art !deas]]
+	<br>
 	- [[Art Gallery]]
+<br>
 - 🧾 Latest art reviews
 `$=dv.list(dv.pages('"All/Art/Reviews"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - Stuff
@@ -42,5 +52,6 @@ banner_y: 1
 	- Total Files: `$=dv.pages().length` 
 	- Inbox Items: `$=dv.pages('"All/Inbox"').length`
 	- Music: `$=dv.pages('"All/Music"').length`
-	- Mini-essays: `$=dv.pages('#mini-esssay').length`
-	- UX: `$=dv.pages('"All/UX"').length`
+	- Mini-essays: `$=dv.pages('"All/Knowledge"').length + dv.pages('"All/Mind"').length`
+	- Mind: `$=dv.pages('"All/Mind"').length`
+	- UX: `$=dv.pages('"All/Knowledge/UX"').length`

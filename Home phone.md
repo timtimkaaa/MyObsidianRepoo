@@ -14,9 +14,9 @@ banner_y: 1
 	- Knowledge: `$=dv.pages('"Knowledge"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 	- Mind: `$=dv.pages('"Mind"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 	- Drinks: `$=dv.pages('"Teas"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
-- 📖 Reading
-	- [[NEW Man And His Symbols - Carl Jung]]
-	- [[Moychay]]
+- 📖 Studying
+`$=dv.list(dv.pages('"Studying"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+	- [[All/Studying/Moychay]]
 - 🚑 First aid toolkit:
 	- [[Reasons to live and not consume rn]]
 	- [[Checklist of things to feel happy right now]]

@@ -1,8 +1,8 @@
 *2025-06-05*
 
-*Status:* New
+*Status:* To be updated
 
-*Tags:* 
+*Tags:* #addiction #content #habbits 
 
 <hr>
 
@@ -22,7 +22,7 @@ Living:
 - Reading books
 - Making art
 - Singing (even to a song)
-- Analysing art
+- Analyzing art
 - Not thinking 
 - Meditating
 
