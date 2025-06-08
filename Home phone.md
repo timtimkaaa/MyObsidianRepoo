@@ -1,15 +1,19 @@
 ---
 banner: "![[flowersjpg.jpg]]"
 ---
-
-
+---
+banner: "![[flowersjpg.jpg]]"
+cssclasses:
+  - dashboard
+banner_x: "0.5"
+banner_y: 1
 ---
 # Choose your journey...
 
 - 📝 Notes
 	- Knowledge: `$=dv.pages('"Knowledge"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 	- Mind: `$=dv.pages('"Mind"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
-	- Drinks: `$=dv.pages('"Food and drinks/Drinks"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
+	- Drinks: `$=dv.pages('"Teas"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link`
 - 📖 Reading
 	- [[NEW Man And His Symbols - Carl Jung]]
 	- [[Moychay]]
