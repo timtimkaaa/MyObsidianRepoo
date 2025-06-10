@@ -14,7 +14,11 @@ banner_y: 1
 	<br>
 	- Drinks: `$=dv.pages('"All/Food and drinks/Drinks"').sort(f => f.file.mtime.ts, "desc").limit(1)[0].file.link` 
 	<br>
+- 🚑 First aid toolkit:
+	- [[Reasons to live and not consume rn]]
 
+	- [[Checklist of things to feel happy right now]]
+	
 
 - 📖 Studying
 `$=dv.list(dv.pages('"All/Studying"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`

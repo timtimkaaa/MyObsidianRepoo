@@ -38,7 +38,7 @@ banner: "![[flowersjpg.jpg]]"
 - ☕ Brewing:
 `$=dv.list(dv.pages('"Projects in progress"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - 🗃️ Oldest file updates: 
-	`$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"asc").limit(4).file.link)`
+	`$=dv.list(dv.pages('"Knowledge"').sort(f=>f.file.mtime.ts,"asc").limit(4).file.link)`
 - 📊 Stats:
 	- Total Files: `$=dv.pages().length` 
 	- Inbox Items: `$=dv.pages('"Inbox"').length`
