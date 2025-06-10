@@ -16,10 +16,9 @@ banner_y: 1
 	<br>
 - 🚑 First aid toolkit:
 	- [[Reasons to live and not consume rn]]
-
-	- [[Checklist of things to feel happy right now]]
-	
-
+	#
+	-  [[Checklist of things to feel happy right now]]
+	#
 - 📖 Studying
 `$=dv.list(dv.pages('"All/Studying"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 	
