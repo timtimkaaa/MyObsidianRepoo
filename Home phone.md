@@ -2,7 +2,6 @@
 banner: "![[flowersjpg.jpg]]"
 ---
 
-
 # Choose your journey...
 
 - 📝 Notes
