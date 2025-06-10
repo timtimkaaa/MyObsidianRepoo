@@ -2,7 +2,7 @@
 
 *Status:* New
 
-*Tags:* #addiction #digital_minimalism #habbits 
+*Tags:* #addiction #digital_minimalism #habits 
 
 <hr>
 

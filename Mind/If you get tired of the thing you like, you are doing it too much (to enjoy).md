@@ -2,7 +2,7 @@
 
 *Status:* Completed
 
-*Tags:* #happiness #habbits #worldview #self-improvement #addiction 
+*Tags:* #happiness #habits #worldview #self-improvement #addiction 
 
 <hr>
 
