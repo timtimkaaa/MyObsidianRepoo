@@ -2,7 +2,7 @@
 
 *Status:* To be updated
 
-*Tags:* #addiction #content #habbits 
+*Tags:* #addiction #content #habits 
 
 <hr>
 
