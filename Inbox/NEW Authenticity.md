@@ -1,4 +1,3 @@
-Return: [[Mind core]]
 
 ### Authenticity
 \[aw-then-tis-i-tee] IPA - noun

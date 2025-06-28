@@ -1,8 +1,8 @@
 *2025-06-27*
 
-*Status:* New
+*Status:* In process
 
-*Tags:* 
+*Tags:* #communication #skills #customer-service #diction #voice #goals
 
 <hr>
 
