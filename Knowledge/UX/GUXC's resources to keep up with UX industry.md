@@ -4,6 +4,8 @@
 
 *Tags:* #UX #knowledge 
 
+From [[Google UX design course]]
+
 <hr>
 
 The field of UX design is constantly evolving. To succeed in the field, you have to keep up with the latest tools, standards, and best practices. Thankfully, the UX design community is as supportive as it is innovative: There are tons of great resources out there to help you master the fundamentals, grow your skills, and stay current. Find the resources that work for you, and check them regularly to get support and learn about recent developments.

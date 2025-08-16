@@ -1,3 +1,12 @@
+*2025-08-16*
+
+*Status:* Finished
+
+*Tags:* #knowledge #UX
+
+From [[Google UX design course]]
+
+<hr>
 
 ## **Usable** 
 
@@ -15,3 +24,6 @@ The images used in the Foodieland app are examples of enjoyable design because t
 ## **Useful** 
 
 The Foodieland app’s filter feature allows users to narrow down their search. This is an example of useful design because it helps users easily select a pizza to order.
+
+### Also check out / References
+
