@@ -8,11 +8,21 @@ From [[Google UX design course]]
 
 <hr>
 
-- **Generalist** - a UX designer with a broad number of responsibilities. Most UX designers begin their careers this way, doing various tasks. For example, you might do a bit of interaction design work, a bit of visual design work, and more.
+- **Generalist**: A generalist has a broad number of responsibilities. A majority of UX design jobs are generalist positions, especially at companies with fewer UX designers. Typically, entry-level UX designers work in generalist roles, and some people choose to stay in generalist design roles for their entire careers. There are a lot of benefits to being a generalist UX designer, like: 
+	- Expanding your skills in many different types of UX work.
+	
+	- Trying a variety of responsibilities and finding an area of UX that you’re especially passionate about. 
+	
+	- Keeping your job feeling fresh and new, while doing a variety of tasks.
 
-- **Specialist** - a designer, who dives deep into one particular UX design role, like interaction, visual, or motion design. While a generalist has a breadth of knowledge, a specialist has more depth of knowledge in one kind of UX design.
+- **Specialist**: A specialist dives deep into one type of UX design, like interaction, visual, or motion design, and becomes an expert. Specialist UX designers are more common at large companies that have a lot of designers, like here at Google. Some of the benefits of becoming a specialist include:
+	- Focusing on one type of design that you enjoy more than others.
+	
+	- Gaining deep knowledge of one type of design.
+	
+	- Becoming well-known in the industry for your expertise in a particular type of design.
 
-- **T-shaped designer** - a designer who specializes in one kind of UX design and has a breadth of knowledge in other areas. This is called a T-shaped designer because your skills look like an uppercase T. The vertical line of the T is the kind of UX design you specialize in, like visual design. The horizontal line across the top of the T includes your complementary skills.
+- **T-shaped**: A T-shaped designer is a specialist who also has a lot of capabilities in other areas. T-shaped designers get their name because the stem (or vertical line) of a T represents their expertise in one area, while the top (or horizontal line) symbolizes their related skills in a broad number of areas. T-shaped designers are great to have on your team, since they come with the benefits of both specialists and generalists. The image below highlights some of the skills a T-shaped UX designer might have. In this example, the person is a visual design specialist but also has knowledge in other areas, like coding and prototyping.
 
 ### Also check out / References
 
