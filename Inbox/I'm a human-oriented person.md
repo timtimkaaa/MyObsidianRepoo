@@ -1,8 +1,8 @@
 *2025-08-19*
 
-*Status:* New
+*Status:* To review
 
-*Tags:* 
+*Tags:* #worldview 
 
 <hr>
 
@@ -12,6 +12,6 @@ I think that one of the major differences between human-oriented people (гум�
 
 While both tap into the idea of deep understanding of algorithms - mine is more focused on the **emotional** side of the **human** "algorithms". That's the focus and end point of most things I do. 
 
-It could also be that
+It could also be that I'm wrong, but we'll see...
 
 ### Also check out / References
