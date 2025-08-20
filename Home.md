@@ -3,7 +3,7 @@ banner: "![[flowersjpg.jpg]]"
 cssclasses:
   - dashboard
 banner_x: "0.5"
-banner_y: 1
+banner_y: 0.936
 ---
 # Choose your journey...
 

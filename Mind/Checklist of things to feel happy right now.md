@@ -11,6 +11,7 @@
 3) Did ya drink water?
 4) Did ya eat?
 5) Maybe overeat? => go for a walk or excersise
+6) Maybe too much sugar => 
 7) Did ya do anything productive today?
 8) Did ya meditate?
 9) Did ya watch videos for 1hr or more? => Go touch grass
