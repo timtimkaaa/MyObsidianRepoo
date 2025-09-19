@@ -11,7 +11,7 @@
 ### Goals
 
 1. I want to understand **common challenges** people face when trying to **fit buying groceries in their busy schedule**, and **shopping for groceries itself**.
-2. I want to identify **frustrations** people experience during the process of **picking and gathering groceries to buy**.
+2. I want to identify **frustrations** people experience during the process of **selecting and gathering groceries to buy**.
 
 ### Participant Characteristics
 
