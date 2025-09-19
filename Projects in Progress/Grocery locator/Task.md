@@ -1,3 +1,14 @@
+*2025-09-19*
+
+*Status:* New
+
+*Tags:* 
+
+*Project:* Grocery locator
+
+<hr>
+
+
 Design an app and a responsive website for a local grocery store that helps shoppers locate products as they shop in person. 
 
 ---

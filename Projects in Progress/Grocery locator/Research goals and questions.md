@@ -4,6 +4,8 @@
 
 *Tags:* 
 
+*Project:* Grocery locator
+
 <hr>
 
 ### Goals
