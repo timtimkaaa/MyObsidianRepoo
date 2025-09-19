@@ -4,7 +4,7 @@
 
 *Tags:* 
 
-*Project:* <% tp.file.folder(true) %>
+*Project:* <% tp.file.folder() %>
 
 <hr>
 
