@@ -1,8 +1,8 @@
 *2025-09-19*
 
-*Status:* New
+*Status:* Finished
 
-*Tags:* 
+*Tags:* #UX #interviews #research 
 
 *Project:* Grocery locator
 

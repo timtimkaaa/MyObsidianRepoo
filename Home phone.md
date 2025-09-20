@@ -1,6 +1,9 @@
 ---
 banner: "![[flowersjpg.jpg]]"
 ---
+---
+banner: "![[flowersjpg.jpg]]"
+---
 
 # Choose your journey...
 
