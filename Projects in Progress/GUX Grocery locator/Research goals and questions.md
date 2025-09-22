@@ -2,9 +2,9 @@
 
 *Status:* New
 
-*Tags:* 
+*Tags:* #UX #research #interviews #GUX
 
-*Project:* Grocery locator
+*Project:* GUX Grocery locator 
 
 <hr>
 

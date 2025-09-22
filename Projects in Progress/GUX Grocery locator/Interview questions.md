@@ -2,9 +2,9 @@
 
 *Status:* Finished
 
-*Tags:* #UX #interviews #research 
+*Tags:* #UX #interviews #research #GUX
 
-*Project:* Grocery locator
+*Project:* GUX Grocery locator
 
 <hr>
 

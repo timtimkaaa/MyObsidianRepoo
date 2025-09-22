@@ -4,7 +4,7 @@
 
 *Tags:* 
 
-*Project:* Grocery locator
+*Project:* GUX Grocery locator
 
 <hr>
 
