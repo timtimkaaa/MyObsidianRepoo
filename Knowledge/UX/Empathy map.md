@@ -13,7 +13,6 @@ Empathy map is an easily-understood chart that explains everything designers ha
 | ~={yellow}Says=~ (direct quote)                                            | ~={yellow}Thinks=~ (What they think about the discussed Idea, could be just from observation) |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
 | **~={yellow}Does=~ (During the interview or a reaction to the discussed)** | **~={yellow}Feels=~ (ask, or see from observation)**                                          |
-|                                                                            |                                                                                               |
 
 
 | ~={yellow}Says=~: "I wish food delivery apps provided more accurate time estimates" | ~={yellow}Thinks=~: Skeptical about "30 minutes of less" guarantee       |
