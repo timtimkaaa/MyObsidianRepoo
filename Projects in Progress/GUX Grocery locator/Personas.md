@@ -60,9 +60,18 @@
 8. **Wasted time** → hates doubling back across the store because he missed an aisle.
 9. **Impulse temptations** → grabs extra snacks when stressed, regrets overspending later.
 
+#### Persona 2: Katarzyna “Kasia” Wiśniewska
+
+**Age:** 29  
+**Pronouns:** she/her  
+**Location:** Ursynów, Warsaw (large Carrefour Hypermarket in Galeria Ursynów is closest)  
+**Life situation:** Lives with her partner in a 2-room rented flat. Works full-time in marketing at a multinational company near Mokotów.  
+**Household:** Dual-income, no kids. Shares shopping responsibilities with partner but usually does the big weekly trip.  
+**Budget sensitivity:** Medium — values quality and speed over chasing small discounts.
+
+> “I just want to get in, find everything on my list, and get out fast — I don’t have time to wander around.”
+
 ---
-
-
 
 
 
