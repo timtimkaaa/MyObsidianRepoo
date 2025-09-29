@@ -1,6 +1,6 @@
 *2025-09-24*
 
-*Status:* New
+*Status:* Finished
 
 *Tags:* #UX #GUX #interviews #research 
 
