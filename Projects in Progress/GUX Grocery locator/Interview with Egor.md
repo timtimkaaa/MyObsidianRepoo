@@ -2,11 +2,39 @@
 
 *Status:* New
 
-*Tags:* 
+*Tags:* #UX #GUX #interviews #research 
 
 *Project:* GUX Grocery Locator
 
 <hr>
+
+## 📌 Summary by ChatGPT
+
+### 1. Common challenges fitting grocery shopping into busy schedules
+
+- The interviewee shops frequently (every 2 days), but doesn’t see this as a challenge — it’s part of the routine.
+- Trips are usually triggered by something missing, not by planned shopping.
+- No explicit time-pressure challenges were reported, though convenience (location of bigger stores) matters.
+
+**Insight:** Shopping is integrated into the routine, but lack of proximity of a large store adds inconvenience.
+
+### 2. Frustrations in selecting and gathering groceries
+
+- **Product selection:** Mostly repetitive, with low exploration of new items. New product adoption is rare.
+- **Main frustration:** Unstable assortment in smaller chains (Biedronka) — items appear randomly and disappear quickly.
+- **Workaround:** Going to bigger stores like Auchan where assortment is large and stable.
+
+**Insight:** Consistency of product availability is more important than variety or novelty. Frustrations are linked to assortment stability, not to the process of choosing products inside the store.
+
+---
+### Key Takeaways by ChatGPT:
+
+- **No strong challenges with time/schedule**, shopping is routine and flexible.
+- **Biggest pain point is assortment inconsistency** — interviewee wants reliability and stable product availability.
+- **Habit-driven shopping behavior**: goes for the same products, avoids experimentation, and prefers large stores for predictability.
+
+
+### Transcript
 
 Speaker 1  (00:00)
 Вот Начинаем так. А ну, мне кажется, ещё записывать, ну посмотрим короче, так 1-й вопрос э, как часто ты ходишь Э в это магазин за едой. В грош ресторф. 
