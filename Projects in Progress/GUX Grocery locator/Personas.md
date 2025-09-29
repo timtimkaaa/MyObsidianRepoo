@@ -41,15 +41,24 @@
 
 #### Goals & Jobs-to-be-Done
 
-1. **“Find it fast”** – Quickly find  a specific item (e.g., “oat milk 1L”).
-2. **“No wasted trips”** – Avoid showing up to empty shelves; wants **credible availability** hints.
-3. **“On the way”** – Fit shopping into his **route** (campus → work → home) with minimal detour.
-4. **“Stretch PLN”** – Spot quick **promo comparisons** across Biedronka/Lidl/Carrefour without hunting flyers.
+1. **“No wasted trips”** – Avoid showing up to empty shelves; wants **credible availability** hints.
+2. **“Find it fast”** – Quickly locate specific items (e.g., oat milk, hummus, pasta sauce) in the aisles without wandering.
+3. **“No wasted time”** – Reduce time spent searching, especially when shopping after work or late evening.
+4. **“Plan smart”** – Make a short shopping list before leaving home, check it off while shopping, and see optimal path inside the store.
+5. **“Choose better”** – Get help comparing similar products (nutrition, price per 100g, promos) to decide quickly.
+6. **“Don’t forget staples”** – Be reminded of usual items (bread, milk, eggs) or low-stock at home before checkout.
+7. **“Stay within budget”** – Track total basket cost in real time, avoid overspending on impulse buys.
 #### Frustrations & barriers (Warsaw context)
 
-- **Stock uncertainty** → goes to the store in a hurry only to find **no fresh bread / oat milk / ready meals.**
-- **Too many loyalty apps** → can’t remember which chain has which promo today.
-- 
+1. **Too many loyalty apps** → can’t remember which chain has which promo today.
+2. **Hard-to-find products** → especially "novelty" section or ready-to-eat meals in crowded sections.
+3. **Confusing layouts** → every Biedronka is different, so previous “mental map” doesn’t always work. 
+4. **Out-of-stock surprises** → shows up for yogurt or bread and finds the shelf empty.
+5. **Price uncertainty** → can’t always see clear per-unit pricing or compare similar items quickly.
+6. **List chaos** → juggling paper notes, Messenger chats with himself, or screenshots of items he needs.
+7. **Forgets something** → realizes after checkout that he missed an essential (e.g., butter).
+8. **Wasted time** → hates doubling back across the store because he missed an aisle.
+9. **Impulse temptations** → grabs extra snacks when stressed, regrets overspending later.
 
 ---
 
