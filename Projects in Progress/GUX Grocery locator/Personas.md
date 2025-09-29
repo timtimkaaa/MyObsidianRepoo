@@ -60,7 +60,7 @@
 8. **Wasted time** → hates doubling back across the store because he missed an aisle.
 9. **Impulse temptations** → grabs extra snacks when stressed, regrets overspending later.
 
-#### Persona 2: Katarzyna “Kasia” Wiśniewska
+### Persona 2: Katarzyna “Kasia” Wiśniewska
 
 **Age:** 29  
 **Pronouns:** she/her  
@@ -72,7 +72,49 @@
 > “I just want to get in, find everything on my list, and get out fast — I don’t have time to wander around.”
 
 
+#### Shopping habits
 
+1. **Primary store:** Carrefour Hypermarket (10 min walk / 3 min drive).
+2. **Frequency:** 1–2 big shopping trips per week. Sometimes a small top-up during the week if needed.
+3. **Basket size:** Medium–large (20–40 items).
+4. **What she buys:**
+    1. **On-the-go food** (wraps, sandwiches, smoothies, protein bars).
+    2. **Ingredients for meals** (fresh vegetables, meats, pasta, rice, sauces).
+    3. **Household items** (toiletries, cleaning products).
+5. **Cooking style:** Enjoys variety, experiments with recipes on weekends; during the week focuses on quick meals.
+
+---
+
+#### Goals (in-store)
+
+1. **“Fast in & out”** – Minimize time spent shopping; find items in the correct aisle quickly.
+2. **“Organized list”** – Have a structured shopping list that matches the store layout and can be checked off while shopping.
+3. **“One trip only”** – Avoid forgetting items, so she doesn’t have to return later.
+4. **“Compare smart”** – Quickly compare brands, sizes, and prices without stopping to scan shelves.
+5. **“Balance speed with variety”** – Find ready-to-eat foods for busy weekdays but also ingredients for weekend cooking.
+6. **“Shared responsibility”** – Coordinate lists with her partner so neither forgets what the other needs.
+
+---
+
+#### Frustrations (in-store)
+
+1. **Time pressure** → feels rushed after work, hates when shopping eats into her evening.
+2. **Store sprawl** → hypermarket is huge; items like hummus, wraps, or sauces are scattered, forcing her to backtrack.
+3. **Unclear shelf labeling** → specialty items (e.g., gluten-free, Asian sauces) are hidden in corners.
+4. **Forgetting something** → realizes after checkout she missed a key item for a recipe.
+5. **Clunky lists** → juggling a mental list or WhatsApp notes between her and partner.
+6. **Crowded aisles** → peak hours (18:00–20:00) make navigation slower and stressful.
+7. **Overchoice stress** → too many versions of the same product (e.g., yogurts, pastas), hard to decide fast.
+8. **Impulse buys** → grabs sweets or extras when stressed or hungry.
+
+---
+
+#### Tech & behavior
+
+1. **Phone:** iPhone SE (compact, efficient).
+2. **Everyday apps:** Google Calendar, Notion, Messenger, Uber Eats, Lidl Plus (for promos even if she shops at Carrefour).
+3. **Payments:** Apple Pay, card.
+4. **List habits:** Often shares notes with her partner in Messenger; sometimes prints recipes from the web.
 
 ---
 
