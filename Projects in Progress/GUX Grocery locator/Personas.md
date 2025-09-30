@@ -64,8 +64,8 @@
 
 **Age:** 29  
 **Pronouns:** she/her  
-**Location:** Ursynów, Warsaw (large Carrefour Hypermarket in Galeria Ursynów is closest)  
-**Life situation:** Lives with her partner in a 2-room rented flat. Works full-time in marketing at a multinational company near Mokotów.  
+**Location:** Warsaw (large Auchan Hypermarket is closest)  
+**Life situation:** Lives with her partner in a 2-room rented apartment. Works full-time in marketing at a multinational company..  
 **Household:** Dual-income, no kids. Shares shopping responsibilities with partner but usually does the big weekly trip.  
 **Budget sensitivity:** Medium — values quality and speed over chasing small discounts.
 
