@@ -7,13 +7,15 @@
 *Project:* GUX Grocery Locator
 
 <hr>
+### User stories
 
-### Outline
+Dmitryi: As a single young student, I want to choose groceries efficiently, so that I can save money and find the exact things I need.
 
-1. Mostly goes shopping to a medium size store (Biedronka), but goes to a big store once a week or two. Lives alone close to the small store. Is a student. Works half-time. Mostly buys ready-to-eat food or ingredients for food that doesn't take too much time to prepare. Has enough time to go shopping when needed. 
-2. Only goes to a big store as it's closest and only does so once or twice a week. Lives with her partner. Works. Mostly buys food to eat on the go (when in a hurry) and ingredients for different types of food. Has little time to go shopping for groceries and is in a hurry there.
+Katarzyna: As a busy working person, I want to quickly plan and find groceries, so that I can save time and frustration.
 
-### Persona 1 Michał “Miki” Nowak
+### Persona 1: Dmitryi
+
+![[Pasted image 20250930122526.png]]
 
 **Age:** 20  
 **Pronouns:** he/him  
@@ -61,7 +63,10 @@
 8. **Wasted time** → hates doubling back across the store because he missed an aisle.
 9. **Impulse temptations** → grabs extra snacks when stressed, regrets overspending later.
 
-### Persona 2: Katarzyna “Kasia” Wiśniewska
+### Persona 2: Katarzyna 
+
+![[Pasted image 20250930122620.png]]
+
 
 **Age:** 29  
 **Pronouns:** she/her  
@@ -119,6 +124,9 @@
 
 ---
 
+### Initial outline
 
+1. Mostly goes shopping to a medium size store (Biedronka), but goes to a big store once a week or two. Lives alone close to the small store. Is a student. Works half-time. Mostly buys ready-to-eat food or ingredients for food that doesn't take too much time to prepare. Has enough time to go shopping when needed. 
+2. Only goes to a big store as it's closest and only does so once or twice a week. Lives with her partner. Works. Mostly buys food to eat on the go (when in a hurry) and ingredients for different types of food. Has little time to go shopping for groceries and is in a hurry there.
 
 ### Also check out / References
