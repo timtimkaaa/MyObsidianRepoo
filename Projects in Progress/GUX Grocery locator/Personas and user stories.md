@@ -9,7 +9,7 @@
 <hr>
 ### User stories
 
-Dmitryi: As a single young student, I want to choose groceries efficiently, so that I can save money and find the exact things I need.
+Dmitryi: As a single young student, I want to choose and compare groceries efficiently, so that I can save money and find the exact things I need.
 
 Katarzyna: As a busy working person, I want to quickly plan and find groceries, so that I can save time and frustration.
 
