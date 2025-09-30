@@ -2,7 +2,7 @@
 
 *Status:* 
 
-*Tags:* #UX #knowledge #research 
+*Tags:* #UX #knowledge #research #empathize 
 
 From [[Google UX design course]]
 
