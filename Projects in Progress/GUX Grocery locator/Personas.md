@@ -29,6 +29,7 @@
 - **Primary store:** Biedronka (medium-size) 3–4×/week for small baskets (3–6 items).
 - **Big shop:** Carrefour/Auchan/Kaufland **every 1–2 weeks** (stock-up on staples, cleaning supplies).
 - **Convenience:** Żabka when it’s late or on limited-trading Sundays.
+- **Basket size:** Small-medium (5-15 items).
 - **What he buys:** Ready-to-eat or quick prep (pierogi, soups, salads, kabanosy, frozen pizza, pasta + sauce, eggs, bread, yogurt, oat milk).
 - **When:** After classes (16:00–18:00) or after a shift (~21:00). Has time **in theory**, but avoids detours and queues.
 - **Cooking gear:** Small kitchen, microwave + two burners; avoids recipes needing >45 minutes.
