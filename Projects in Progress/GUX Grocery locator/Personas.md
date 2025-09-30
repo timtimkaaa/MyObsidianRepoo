@@ -74,7 +74,7 @@
 
 #### Shopping habits
 
-1. **Primary store:** Carrefour Hypermarket (10 min walk / 3 min drive).
+1. **Primary store:** Auchan Hypermarket (10 min walk / 3 min drive).
 2. **Frequency:** 1–2 big shopping trips per week. Sometimes a small top-up during the week if needed.
 3. **Basket size:** Medium–large (20–40 items).
 4. **What she buys:**
