@@ -1,3 +1,13 @@
+*2025-10-03
+
+*Status:* Finished
+
+*Tags:* #UX #GUX #interviews #research 
+
+*Project:* GUX Grocery Locator
+
+<hr>
+
 Speaker 2  (00:02)
 Как часто выходите в магазин за продуктами? 
 
