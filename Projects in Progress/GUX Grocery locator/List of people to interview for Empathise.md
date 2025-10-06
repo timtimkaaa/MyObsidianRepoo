@@ -41,5 +41,6 @@ And these fit the requirements close to perfect:
 - Artem
 - Dima
 - Ilya
+- Kiril
 
 ### Also check out / References
