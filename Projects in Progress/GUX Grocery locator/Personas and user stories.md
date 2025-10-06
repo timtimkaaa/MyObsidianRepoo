@@ -71,7 +71,7 @@ Katarzyna: As a busy working person, I want to quickly plan and find groceries, 
 **Age:** 29  
 **Pronouns:** she/her  
 **Location:** Warsaw (large Auchan Hypermarket is closest)  
-**Life situation:** Lives with her partner in a 2-room rented apartment. Works full-time in marketing at a multinational company..  
+**Life situation:** Lives with her partner in a 2-room rented apartment. Works full-time in marketing at a multinational company, uses a wheelchair.
 **Household:** Dual-income, no kids. Shares shopping responsibilities with partner but usually does the big weekly trip.  
 **Budget sensitivity:** Medium — values quality and speed over chasing small discounts.
 
