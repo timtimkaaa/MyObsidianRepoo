@@ -2,7 +2,7 @@
 
 *Status:* New
 
-*Tags:* 
+*Tags:* #UX_persona #UX #GUX #interviews #research #empathize 
 
 *Project:* GUX Grocery Locator
 
