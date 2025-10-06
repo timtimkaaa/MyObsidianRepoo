@@ -8,6 +8,38 @@
 
 <hr>
 
+## 📌 Summary by ChatGPT
+
+### 1. Common challenges fitting grocery shopping into busy schedules
+
+- Despite shopping _very frequently_ (up to twice daily), the interviewee does not frame it as a time-management issue — it’s embedded in routine.
+- However, reliance on small, nearby stores may be a _time-saving strategy_ (chooses convenience over variety).
+- Cooking is constrained by time: they don’t want to spend too much on recipes or strict processes.
+
+**Insight:** Frequent small trips replace planned larger shopping, which may reduce perceived scheduling challenges but create dependency on local store availability.
+
+---
+
+### 2. Frustrations in selecting and gathering groceries
+
+- **Main frustration:** Absence of needed products in small shops.
+- **Secondary frustration:** High prices.
+- Generally, does not feel many problems in-store navigation or product selection — process is simple: “just buy and go.”
+- Larger stores are avoided, even though they would solve assortment issues.
+
+**Insight:** Frustrations are tied less to decision-making and more to _store limitations_ (product availability, pricing).
+
+---
+
+### ✅ Key Takeaways for Research Goal
+
+- Shopping is **extremely frequent and embedded in daily routine**, so not perceived as a scheduling conflict.
+- **Main pain point:** small store limitations (missing products, high prices).
+- **Cooking barrier:** lack of time and dislike of rigid recipes — enjoyment comes only with freedom and creativity, which requires more effort.
+- Unlike the first interviewee, this person faces **more frustration with store stock** but still doesn’t find the act of grocery shopping itself stressful.
+
+## Interview transcript
+
 Speaker 2  (00:02)
 Как часто выходите в магазин за продуктами? 
 
