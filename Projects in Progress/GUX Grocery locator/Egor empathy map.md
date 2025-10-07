@@ -2,7 +2,7 @@
 
 *Status:* Finished
 
-*Tags:* #UX #GUX #interviews #research #empathize 
+*Tags:* #UX #GUX #interviews #research 
 
 *Project:* GUX Grocery Locator
 
