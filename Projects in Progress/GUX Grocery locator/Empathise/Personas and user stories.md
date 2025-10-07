@@ -15,7 +15,7 @@ Katarzyna: As a busy working person, I want to quickly plan and find groceries, 
 
 ### Persona 1: Dmitryi
 
-![[Pasted image 20250930122526.png]]
+![[Pasted image 20251007135755.png]]
 
 **Age:** 20  
 **Pronouns:** he/him  
