@@ -1,8 +1,8 @@
 *2025-08-14*
 
-*Status:* 
+*Status:* Finished
 
-*Tags:* #UX #knowledge #research 
+*Tags:* #UX #knowledge #research #UX_empathize 
 
 From [[Google UX design course]]
 
