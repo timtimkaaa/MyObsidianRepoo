@@ -19,7 +19,7 @@ To start, you need to do some research in order to answer these two questions:
 
 **Step 3. Connect these features and benefits with the needs of your users.** The goal is to identify what’s truly valuable to the user and not just a cool feature that users didn’t ask for. To determine value, take the personas you’ve developed and pair each persona with a value proposition that meets their biggest pain point.
 
-**Step 4. Review your official value proposition list.** You’ve narrowed your list down of lots of benefits and features by matching them with actual user needs. Now it’s time to review the list of value propositions your product offers.
+**Step 4. Review your official value proposition list.** You’ve narrowed your list down of lots of benefits and features by matching them with actual user needs. Now it’s time to review the list of value propositions your product offers. Compare it to the ones competitors have and lack (read reviews).
 
 ### Also check out / References
 
