@@ -58,6 +58,7 @@
 	- Navigate the store quickly and efficiently
 	- Easily collaborate to edit lists and collect products together
 2. Dmitryi
+	- See the latest promotions
 	- Easily compare product prices and apply promotions
 	- Check for product availability in store
 	- Easy planning what you need to buy 
@@ -67,7 +68,7 @@
 Competitor bad reviews:
 - Outdated promotions listed
 - Laggy and unintuitive
-- Lack of products listed in promotions
+- Products listed in promotions are out of stock
 
 
 ### Also check out / References
