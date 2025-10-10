@@ -67,7 +67,7 @@
 Competitor bad reviews:
 - Outdated promotions listed
 - Laggy and unintuitive
-- 
+- Lack of products listed in promotions
 
 
 ### Also check out / References
