@@ -62,7 +62,12 @@
 	- Check for product availability in store
 	- Easy planning what you need to buy 
 
+### Compare to competitors
 
+Competitor bad reviews:
+- Outdated promotions listed
+- Laggy and unintuitive
+- 
 
 
 ### Also check out / References
