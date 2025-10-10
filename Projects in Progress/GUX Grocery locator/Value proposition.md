@@ -8,6 +8,17 @@
 
 <hr>
 
+## Final value propositions
+
+- Navigate the store quickly and efficiently
+- Easily collaborate to edit lists and collect products together
+- See the latest promotions
+- Easily compare product prices and apply promotions
+- Check for product availability in store
+- Easy planning what you need to buy 
+
+
+## Creation process
 ### Asking questions
 #### What does your product do?
 - Easily locate products inside the store
