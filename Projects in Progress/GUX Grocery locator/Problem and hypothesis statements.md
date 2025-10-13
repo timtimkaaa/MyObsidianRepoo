@@ -17,7 +17,7 @@ If Dmitryi uses Grocery Locator to make a grocery list and check product availab
 
 Katarzyna is a busy office worker using a wheelchair to get around, who needs to quickly buy the food for the week cooperating with her partner, because she is alternatively abled and has a tight schedule and little time for shopping.
 
-If Katarzyna uses Grocery Locator to collaboratively edit grocery lists and navigate the store with her husband quicker, then she will save time and nerves while shopping for groceries.
+If Katarzyna uses Grocery Locator to collaboratively edit grocery lists, navigate the store with her husband quicker and check product info beforehand, then she will save time and nerves while shopping for groceries.
 ### Also check out / References
 
 - [[Problem statements]]
