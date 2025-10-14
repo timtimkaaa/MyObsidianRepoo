@@ -1,8 +1,8 @@
-*2025-10-14*
+*{{date}}*
 
 *Status:* New
 
-*Tags:* 
+*Tags:* #UX #knowledge 
 
 *Project:* [[Google UX design course|GUX]] Grocery Locator 
 
@@ -11,4 +11,3 @@
 
 
 ### Also check out / References
-

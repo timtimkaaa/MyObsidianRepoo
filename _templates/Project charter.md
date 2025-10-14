@@ -1,8 +1,8 @@
 *Tags:*
 
-Started on: *{{date}}*
+*Started on: {{date}}*
 
-**Plan** to finish: 
+****Plan** to finish:* 
 
 <hr>
 
