@@ -25,10 +25,8 @@ banner_y: 0.936
 - 📲 UX
 	- [[UX to learn]]
 	######
-	
 	- [[ToDo]]
 	######
-	
 	- [[UX Portfolio]]
 	######
 - 🎨 Art
@@ -48,7 +46,7 @@ banner_y: 0.936
 - ✅ TODOs: 
 `$=dv.list(dv.pages('"All/TODOs"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - ☕ Brewing:
-`$=dv.list(dv.pages('"All/Projects in progress"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
+`$=dv.list(dv.pages('"All/Projects in Progress"').sort(f=>f.file.mtime.ts,"desc").limit(4).file.link)`
 - 🗃️ Oldest knoledge updates: 
 	`$=dv.list(dv.pages('"All/Knowledge"').sort(f=>f.file.mtime.ts,"asc").limit(4).file.link)`
 - 📊 Stats:
