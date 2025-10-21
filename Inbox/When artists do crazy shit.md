@@ -1,0 +1,1 @@
+They are not just expressing their innate world but also just as much reflect the world around them. So if Kanye hates Jews, he's reflecting things for society to see 
