@@ -1,6 +1,6 @@
 *2025-08-14*
 
-*Status:* Finish
+*Status:* Finished
 
 *Tags:* #UX #knowledge #UX_define 
 
@@ -10,7 +10,7 @@ From [[Google UX design course]]
 
 ### Dmitryi
 
-Dmitryi is a student on budget mostly shopping at small stores, who needs to quickly get all the items he needs in one place and save money, because he doesn't want to return to the store or to go to a different one and he has tight budget.
+Dmitryi is a student on budget mostly shopping at small stores, who needs to quickly get all the items he needs in one place and save money, because he doesn't want to return to the store or to go to a different one and because he has tight budget.
 
 If Dmitryi uses Grocery Locator to make a grocery list and check product availability and information, then he will buy all the items needed for manageable prices and in one go.
 ### Katarzyna

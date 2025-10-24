@@ -28,5 +28,9 @@ Goal: Buy products for the next 1-2 days for the cheapest price.
 | **IMPROVEMENT<br><br>OPPORTUNITIES** | - Help listing items<br>    <br>- Help remember items                                                                                                                         | - Improve finding products<br>    <br>- Help with routes                                                                                            | - Simplify complex food choices<br>    <br>- Show substitutes if item not available                                 | - Simplify price comparing <br>    <br>- Simplify accounting for sales                                                                                                        | - Show progress and what’s left to get                                                                                                                             | All good                                                                                                                                                |
 
 
+
+![[Pasted image 20251024213916.png]]
+
+![[Pasted image 20251024213953.png]]
 ## Also check out / References
 
