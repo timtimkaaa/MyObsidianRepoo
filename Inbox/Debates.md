@@ -26,6 +26,7 @@ Ideas overall:
 	- Willpower comes from boredom
 - Kids
 	- All the above
+	- "Results showed support for reciprocal associations between digital media and ADHD symptoms, with associations being more consistent for problematic use of digital media than for screen time. Thus, children with ADHD symptoms appear more vulnerable to developing high or problematic use of digital media (i.e., selection effects), and digital media also have effects on later ADHD symptom levels, either because of specific characteristics of digital media or because of indirect effects on, for example, sleep and social relations (i.e., media effects)"
 	- Parents give kids ipads - they think they're busy while actually watching tiktok themselves
 	- Can you hear that ... silence, do you want your kids to never hear it
 
