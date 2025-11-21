@@ -48,6 +48,13 @@ Ideas overall:
 
 #### +1
 
+Attention is silently stolen from you like money
+
+Deny intruders from stealing
+
+Can sue for it
+
+
 
 
 <hr>
@@ -58,7 +65,9 @@ Ideas overall:
 <hr>
 #### +2
 
+Ads, billboards and web ads
 
+Addictions
 
 <hr>
 #### -2
