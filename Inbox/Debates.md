@@ -35,30 +35,47 @@ Ideas overall:
 - When speaking you're actively using someone else's attention
 - They can threaten to or actually sue you to stop you from expressing your opinion
 - So anyone can threaten to sue after hearing an opinion they don't like
+
 ### Debate notes
 
-#### +!
+#### +1
+
+
 
 <hr>
 #### -1
 
+
+
 <hr>
 #### +2
+
+
 
 <hr>
 #### -2
 
+
+
 <hr>
 #### +3
+
+
 
 <hr>
 #### -3
 
+
+
 <hr>
 #### +4
 
+
+
 <hr>
 #### -4
+
+
 
 <hr>
 
