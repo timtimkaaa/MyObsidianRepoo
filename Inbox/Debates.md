@@ -36,6 +36,17 @@ Ideas overall:
 - When **speaking** you're actively using someone else's attention
 - They can threaten to or actually sue you to stop you from expressing your opinion
 - So no protests or debates since they're distracting the government
+- Why even talk about **productivity** 
+- Anthropomorphic obots just came out and we're still not relaxing in an island
+- A non-repressive, liberated form of productivity is possible
+
+Marcuse imagines a society where technological progress allows for:
+
+less alienated work
+
+more creative and playful forms of activity
+
+fulfillment of genuine human needs rather than production for its own sake
 
 ### Debate notes
 
