@@ -28,7 +28,8 @@ Ideas overall:
 	- Children with ADHD symptoms appear more vulnerable to developing high or problematic use of digital media, and digital media also have effects on later ADHD symptom levels,
 	- Parents give kids ipads - they think they're busy while actually watching tiktok themselves
 	- Can you hear that ... silence, do you want your kids to never hear it
-	- Willpower comes from boredom
+	- Creativity and motivation come from boredom
+	- Freedom of thought away from you
 ### - Conflict with freedom of speech
 
 - When speaking you're actively using someone else's attention
