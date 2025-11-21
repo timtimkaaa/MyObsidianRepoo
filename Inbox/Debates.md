@@ -38,7 +38,7 @@ Ideas overall:
 - So no protests or debates since they're distracting the government
 - Why even talk about **productivity** 
 - Anthropomorphic obots just came out and we're still not relaxing in an island
-- A non-repressive, liberated form of productivity is possible (HerbeMarcuse)
+- A non-repressive, liberated form of productivity is possible (Herbert Marcuse)
 	- We could live in a society where technological progress allows for:
 		- less alienated work
 		- more creative and playful forms of activity
