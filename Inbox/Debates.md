@@ -21,6 +21,7 @@ Ideas overall:
 	- Lower attention span (stat)
 	- We need to really relax our bodies and minds (and not by watching tiktok or an ad) - **Information overload**
 	- It's natural to want non-stop entertainment - **that's how they get us**
+	- ~ No physical activity
 	
 - Kids
 	- All the above
@@ -32,9 +33,9 @@ Ideas overall:
 	- Freedom of thought away from you
 ### - Conflict with freedom of speech
 
-- When speaking you're actively using someone else's attention
+- When **speaking** you're actively using someone else's attention
 - They can threaten to or actually sue you to stop you from expressing your opinion
-- So anyone can threaten to sue after hearing an opinion they don't like
+- So no protests or debates since they're distracting the government
 
 ### Debate notes
 
