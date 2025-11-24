@@ -72,29 +72,29 @@ Next, notice how the ~={cyan}research goals=~ indicate ~={yellow}what the resear
 
 #### The research questions
 
-Finally, consider the example’s **research questions**. These research questions are not the interview questions that researchers will pose to study participants. Instead, they state at a high level what the UX research is trying to answer:
+Finally, consider the example’s **~={cyan}research questions=~**. These research questions are not the interview questions that researchers will pose to study participants. Instead, they state at a high level what the UX research is trying to answer:
 
 - How long does it take for 4–5 people to make a collaborative group order? 
 - What can we learn from the steps users take to order as a group, versus on their own?
 
 These questions are effective because they showcase these four features:
 
-**Actionable:** Actionable means each question clearly indicates the kind of answer being sought. With actionable questions, researchers will know when they have or have not found an answer. With the second question, for example, researchers know they are seeking information about the steps users are taking to make orders individually and in a group.
+~={yellow}**Actionable:**=~ Actionable means each question clearly indicates the kind of answer being sought. With actionable questions, researchers will know when they have or have not found an answer. With the second question, for example, researchers know they are seeking information about the steps users are taking to make orders individually and in a group.
 
-**Specific:** Specific questions produce meaningful data. In the first question, for example, notice the specific detail that researchers seek: length of time for a collaborative order made by a group of 4–5 people.
+~={yellow}**Specific:**=~ Specific questions produce meaningful data. In the first question, for example, notice the specific detail that researchers seek: length of time for a collaborative order made by a group of 4–5 people.
 
-**Neutral:** To be neutral, research questions should be phrased so that they don’t sound like you’re assuming a particular answer to the question. They shouldn’t show bias or lead toward predetermined answers. For example, imagine if the first question were rewritten this way: “Why does it take groups so long to place collaborative orders?” This question is biased and leading: It assumes that collaborative orders take a long time rather than neutrally seeking information about how long the orders take.
+~={yellow}**Neutral:**=~ To be neutral, research questions should be phrased so that they don’t sound like you’re assuming a particular answer to the question. They shouldn’t show bias or lead toward predetermined answers. For example, imagine if the first question were rewritten this way: “Why does it take groups so long to place collaborative orders?” This question is biased and leading: It assumes that collaborative orders take a long time rather than neutrally seeking information about how long the orders take.
 
-**Methodological:** Methodological means the questions indicate whether they must be answered through **quantitative or qualitative** methods. The first question seeks quantitative information about length of time, information that can be measured numerically. The second question seeks qualitative information about users’ experiences. It offers opportunities to learn users’ feelings and other insights that are hard to capture numerically.
+~={yellow}**Methodological:** =~Methodological means the questions indicate whether they must be answered through **quantitative or qualitative** methods. The first question seeks quantitative information about length of time, information that can be measured numerically. The second question seeks qualitative information about users’ experiences. It offers opportunities to learn users’ feelings and other insights that are hard to capture numerically.
 
 
-#### Questions to assess your research plans
+#### Questions to assess your ~={cyan}header=~ and ~={cyan}research questions=~
 
 When you start a research plan for your work, consider comparing the example above to your own introduction and research questions. 
 
 As you assess your work, here are some guiding questions you can use: 
 
-Have you constructed a UX research study plan **introduction** that:
+Have you constructed a UX research study plan ~={cyan}**introduction**=~ that:
 
 - Has a title that represents the focus and purpose of the study?
 - Lists the name, title, and email address for the author of the plan?  
@@ -104,23 +104,23 @@ Have you constructed a UX research study plan **introduction** that:
 - Outlines research goals that demonstrate what you’d like to learn from the study and how your research results might affect your design decisions?
     
 
-Based on your project’s problem statement, were you able to write **research questions** that are:
+Based on your project’s problem statement, were you able to write ~={cyan}**research questions**=~ that are:
 
 - Actionable and clearly answerable by your research? 
 - Specific, to make sure your study produces meaningful data?
 - Neutrally phrased and not leading, so users aren’t guided toward providing certain answers?
 - Clear on whether quantitative or qualitative data is being collected?
 
-### Methodology and participants
+#### Methodology and participants
 
-A good **methodology** will list:
+A good ~={cyan}**methodology**=~ will list:
 
 - The procedures you’ll use while collecting the information you need to answer your research questions 
 - The time and location of product tests and interviews
 - Who will conduct the tests
 - How the tests will be conducted
 
-More exactly a good methodology should include:
+More exactly a good ~={cyan}methodology=~ should include:
 
 - The type of study, like an unmoderated usability study, which means participants go through the instructions, tasks, and questions on their own without a moderator.
 - The location of the study, like the United States (remote), which means U.S. participants will go through the usability study in their own homes.
@@ -130,13 +130,25 @@ More exactly a good methodology should include:
 
 
 
-The **participants** section of your UX research study plan should include:
+The ~={cyan}**participants**=~ section of your UX research study plan should include:
 
 - The primary characteristics of ideal participants, like their age, gender, race, accessibility needs, and in the case of the example, coffee preferences
 - An incentive for people to participate, like a $10 CoffeeHouse gift card to any physical or online store.
 - A means to thank the participants for their time, like a short thank-you message
 
+#### Questions to assess your ~={cyan}methodology=~ and ~={cyan}participants=~
 
+As you assess your work, here are some guiding questions you can use. Have you constructed a UX research study plan methodology that:
+
+- Lists the procedures for conducting the usability test?
+- Lists the time and location the test will occur?  
+- Identifies who will be conducting the test and whether it's moderated or unmoderated? 
+- Describes the way the test will be conducted?
+
+From your methodology, were you able to decide:
+
+- The primary characteristics that make your participants ideal for the test and ensure that you’re gathering feedback from people with diverse perspectives and abilities?
+- The incentive that makes participants want to be involved in the study and that thanks them for their time?
 
 
 
