@@ -113,18 +113,30 @@ Based on your project’s problem statement, were you able to write **research q
 
 ### Methodology and participants
 
-A good methodology will list:
+A good **methodology** will list:
 
 - The procedures you’ll use while collecting the information you need to answer your research questions 
 - The time and location of product tests and interviews
 - Who will conduct the tests
 - How the tests will be conducted
 
-The participants section of your UX research study plan should include:
+More exactly a good methodology should include:
 
-- The primary characteristics of people you’ll recruit to participate
-- An incentive for people to participate
-- A means to thank them for their participation
+- The type of study, like an unmoderated usability study, which means participants go through the instructions, tasks, and questions on their own without a moderator.
+- The location of the study, like the United States (remote), which means U.S. participants will go through the usability study in their own homes.
+- The specific dates when the study will take place. As shown in the example, sessions will take place on February 8 and 9. 
+- The number of participants included in the study. For example, five participants are responsible for completing the collaborative ordering tasks on their own; one of the participants is randomly chosen to submit the group order; and each participant is responsible for completing a questionnaire on their experience privately. 
+- A short description of the study session. As shown in the example, each session will last 45 minutes and will include an introduction, a list of tasks, and a short questionnaire.
+
+
+
+The **participants** section of your UX research study plan should include:
+
+- The primary characteristics of ideal participants, like their age, gender, race, accessibility needs, and in the case of the example, coffee preferences
+- An incentive for people to participate, like a $10 CoffeeHouse gift card to any physical or online store.
+- A means to thank the participants for their time, like a short thank-you message
+
+
 
 
 
