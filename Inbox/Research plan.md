@@ -20,6 +20,18 @@ From [[Google UX design course]]
 > ### Research questions
 > - How long does it take for 4–5 people to make a collaborative group order? 
 > - What can we learn from the steps users take to order as a group, versus on their own?
+> ### Methodology
+> - Unmoderated usability study. 
+> - **Location:** United States, remote (participants will go through the usability study in their own homes).
+> - **Date:** Sessions will take place on February 8 and 9.
+> - Five participants complete the collaborative ordering tasks on their own. One of the participants is randomly chosen to submit the group order. Each participant completes a questionnaire on their experience privately. 
+> - Each session will last 45 minutes and will include an introduction, a list of tasks, and a short questionnaire. 
+> ### Participants
+> - Participants are people who place group coffee orders at least twice a month, whether as a business task or a social task. These orders could be for office meetings, friend groups, or family gatherings. 
+> - Participants don’t have to be coffee drinkers themselves
+> - 2 male, 2 female, 1 non-binary, all aged 20–75 years old
+> - 1 user of assistive technologies (keyboard, screen reader)
+> - Incentive: $10 CoffeeHouse gift card redeemable at any location or online
 
 Now that you’ve reviewed the example, it’s time to assess how it works.
 
@@ -98,4 +110,23 @@ Based on your project’s problem statement, were you able to write **research q
 - Specific, to make sure your study produces meaningful data?
 - Neutrally phrased and not leading, so users aren’t guided toward providing certain answers?
 - Clear on whether quantitative or qualitative data is being collected?
+
+### Methodology and participants
+
+A good methodology will list:
+
+- The procedures you’ll use while collecting the information you need to answer your research questions 
+- The time and location of product tests and interviews
+- Who will conduct the tests
+- How the tests will be conducted
+
+The participants section of your UX research study plan should include:
+
+- The primary characteristics of people you’ll recruit to participate
+- An incentive for people to participate
+- A means to thank them for their participation
+
+
+
+
 ### Also check out / References
