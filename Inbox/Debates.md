@@ -11,6 +11,12 @@ Ideas overall:
 - - Things like social media help with ADHD
 ###  + All points to cover
 
+
++It's still the goal of ads is to get to consciousness
+
+
++There's many other ways to get money - like make good products and spread it by word. There are companies like Wendy's, underarmour, dropbox
+
 - Social media
 	- Make you addicted (brain chemistry)
 	- Tire you down (many emotions and a lot of dopamine at once)
@@ -61,6 +67,9 @@ Would like to defend attention
 
 Not the best way to do it
 
+What is personal property
+
+Property is: 1-6
 
 
 <hr>
@@ -70,10 +79,19 @@ Ads, billboards and web ads
 
 Addictions
 
+Lose
+-
+
+It's not our problem how it works
+
+You still read it consciously
+
 <hr>
 #### -2
 
+Usefulness of ads
 
+They're there to give money for people hosting ads
 
 <hr>
 #### +3
