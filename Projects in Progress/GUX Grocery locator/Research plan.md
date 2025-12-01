@@ -32,6 +32,15 @@
 - System Usability Scale
 - Drop off rates (additional)
 
+### Methodology
+
+- Moderated usability study
+- **Location:** Poland, *REMOTE???*
+- **Date:** Session is going to take place on ...
+- Five participants complete making a list and "shop for products". Each participant completes a questionnaire on their experience privately.
+- Each session will last 45 minutes and will include an introduction, a list of tasks, and a short questionnaire.
+
+### Participants
 
 
 
