@@ -32,6 +32,29 @@ From [[Google UX design course]]
 > - 2 male, 2 female, 1 non-binary, all aged 20–75 years old
 > - 1 user of assistive technologies (keyboard, screen reader)
 > - Incentive: $10 CoffeeHouse gift card redeemable at any location or online
+> ### Script
+> - **Intro:**
+> 	- Before we begin, do I have your consent to take both audio and video recordings of this interview?
+> 	- I want you to know that this isn’t a test. There is no “right” answer, and none of your responses will be considered wrong.
+> 	- If you have any questions, please don’t hesitate to ask.
+> 	- This data is being collected to help create an app that makes ordering coffee easier. Your answers will help us make the app easier for people to use.
+> 	- Basic questions:       
+>	 - Do you live in an area with lots of coffee shops?            
+> 	- Do you have a favorite coffee shop?        
+> 	- How many times a week do you order coffee from a store?  
+> 	- Do you usually order for yourself, or for a group?        
+> 	- Can you talk me through a normal day in your life?      
+> 	- Great! If you’re ready, let’s move on to the tasks you’ll be working on.    
+> - **Prompt 1:** Open up the CoffeeHouse app on your phone and customize a drink order for yourself. Do your best to talk me through your thought process. 
+> 	- Prompt 1 follow-up: How easy do you feel it is to customize a drink the way you like it? What was easy and what was challenging?
+> - **Prompt 2:** If I said, “start a new group order,” would you know what to do? 
+>	- Prompt 2 follow-up: Try it out now, please.
+>	- Prompt 2 follow-up: Did you find anything confusing?
+>- **Prompt 3:** From the existing group order screen, add your custom drink from a moment ago, then add multiple other custom drinks to the same order and proceed to the checkout screen. 
+>	- Prompt three follow-up: How do you feel about the process of purchasing multiple drinks in the same order? What was easy and what was challenging?
+>- **Prompt 4:** Finally, check out and complete the group order. 
+>	- Prompt 4 follow-up: How do you feel about paying for different orders in the same transaction? What are your feelings about the amount of time it took to complete?
+>- **Prompt 5:** How do you feel about the CoffeeHouse app overall? What did you like and dislike about it?
 
 
 Now that you’ve reviewed the example, it’s time to assess how it works.
