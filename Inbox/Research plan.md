@@ -33,6 +33,7 @@ From [[Google UX design course]]
 > - 1 user of assistive technologies (keyboard, screen reader)
 > - Incentive: $10 CoffeeHouse gift card redeemable at any location or online
 
+
 Now that you’ve reviewed the example, it’s time to assess how it works.
 
 ## UX research study plan template
