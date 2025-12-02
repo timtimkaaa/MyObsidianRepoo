@@ -43,9 +43,22 @@
 ### Participants
 
 - Participants are people who go shopping to medium-to-large stores at least once a week. They could usually go alone or ~={cyan}with someone=~.
-- 
+- 2 male, 2 female, 1 - ???, all aged 18-50yo.
+- 1 user of assistive technology - ???
+- Incentive: a big thank you.
 
+### Script
 
-
-
+- Intro:
+	- Before we begin, do I have your consent to take both audio and video recordings of this interview?
+	- I want you to know that this isn’t a test. There is no “right” answer, and none of your responses will be considered wrong.
+	- If you have any questions, please don’t hesitate to ask.
+	- This data is being collected to help create an app that makes grocery shopping easier. Your answers will help us make the app easier for people to use.
+- Basic questions:
+	- Do you live close to any big grocery stores (like Auchan, Carrefour, Eurospar)?
+	- Do you go there often and how often?
+	- Do you usually go alone or with someone?
+	- Can you talk me through your usual day, on which you go shopping?
+	- Great! If you’re ready, let’s move on to the tasks you’ll be working on.
+- Prompt 1: Open up the Grocery Locator app on your phone and tell me how
 ### Also check out / References

@@ -38,8 +38,8 @@ From [[Google UX design course]]
 > 	- I want you to know that this isn’t a test. There is no “right” answer, and none of your responses will be considered wrong.
 > 	- If you have any questions, please don’t hesitate to ask.
 > 	- This data is being collected to help create an app that makes ordering coffee easier. Your answers will help us make the app easier for people to use.
-> 	- Basic questions:       
->	 - Do you live in an area with lots of coffee shops?            
+> - **Basic questions**:       
+>	 - Do you live in an area with lots of coffee shops?          
 > 	- Do you have a favorite coffee shop?        
 > 	- How many times a week do you order coffee from a store?  
 > 	- Do you usually order for yourself, or for a group?        
