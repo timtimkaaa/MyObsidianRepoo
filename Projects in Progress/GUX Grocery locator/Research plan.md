@@ -60,6 +60,9 @@
 	- Do you usually go alone or with someone?
 	- Can you talk me through your usual day, on which you go shopping?
 	- Great! If you’re ready, let’s move on to the tasks you’ll be working on.
-- Prompt 1: Open up the Grocery Locator app on your phone and try to locate a product.
-	- Follow-up: How easy do you feel it is to locate a product.
+- Prompt 1: Open up the Grocery Locator app on your phone and try to locate a {product} that you like the most.
+	- Follow-up: How easy do you feel it is to locate a product. 
+- Prompt 2: Now try to a grocery list
+	- Follow-up: Did you find anything confusing
+- 
 ### Also check out / References
