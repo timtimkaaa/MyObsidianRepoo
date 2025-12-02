@@ -54,6 +54,7 @@
 	- I want you to know that this isn’t a test. There is no “right” answer, and none of your responses will be considered wrong.
 	- If you have any questions, please don’t hesitate to ask.
 	- This data is being collected to help create an app that makes grocery shopping easier. Your answers will help us make the app easier for people to use.
+	- This is a simple prototype, so try to use your imagination to make it look more real to you.
 - Basic questions:
 	- Do you live close to any big grocery stores (like Auchan, Carrefour, Eurospar)?
 	- Do you go there often and how often?
@@ -62,7 +63,7 @@
 	- Great! If you’re ready, let’s move on to the tasks you’ll be working on.
 - Prompt 1: Open up the Grocery Locator app on your phone and try to locate a {product} that you like the most.
 	- Follow-up: How easy do you feel it is to locate a product. 
-- Prompt 2: Now try to a grocery list
+- Prompt 2: Now try to create and fill out a new grocery list
 	- Follow-up: Did you find anything confusing
 - 
 ### Also check out / References
