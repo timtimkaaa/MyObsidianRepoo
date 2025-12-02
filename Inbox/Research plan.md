@@ -6,7 +6,7 @@
 
 From [[Google UX design course]]
 
-### Example
+## Example
 
 <hr>
 > [!example] Example of a Research plan
@@ -81,7 +81,7 @@ For anyone who engages with the research plan, ~={yellow}these four details are 
 - The **stakeholders** section indicates the people who are involved in the research and their roles. In this case, it’s the group targeted for testing and the company employees who oversee app changes and operations (including their names and titles).
 - The **date** indicates when the plan was last updated, not when it was first created. Always remember to update the date every time you edit a research plan so you (and any teammates) know whether the plan is current.
 
-#### Project background and research goals
+### Project background and research goals
 
 In the example, notice how the ~={cyan}project background=~ offers a brief explanation of ~={yellow}**why** the CoffeeHouse app is being **created**=~ and ~={yellow}**what** is being **tested** with users=~. It’s not long and detailed, but rather efficient and precise. 
 
@@ -94,7 +94,7 @@ Next, notice how the ~={cyan}research goals=~ indicate ~={yellow}what the resear
 - What design problems am I trying to solve for the user and/or the business? 
 - How will the results of the research impact our design decisions?
 
-#### The research questions
+### The research questions
 
 Finally, consider the example’s **~={cyan}research questions=~**. These research questions are not the interview questions that researchers will pose to study participants. Instead, they state at a high level what the UX research is trying to answer:
 
@@ -112,7 +112,7 @@ These questions are effective because they showcase these four features:
 ~={yellow}**Methodological:** =~Methodological means the questions indicate whether they must be answered through **quantitative or qualitative** methods. The first question seeks quantitative information about length of time, information that can be measured numerically. The second question seeks qualitative information about users’ experiences. It offers opportunities to learn users’ feelings and other insights that are hard to capture numerically.
 
 
-#### Questions to assess your ~={cyan}header=~ and ~={cyan}research questions=~
+### Questions to assess your ~={cyan}header=~ and ~={cyan}research questions=~
 
 When you start a research plan for your work, consider comparing the example above to your own introduction and research questions. 
 
@@ -135,7 +135,7 @@ Based on your project’s problem statement, were you able to write ~={cyan}**re
 - Neutrally phrased and not leading, so users aren’t guided toward providing certain answers?
 - Clear on whether quantitative or qualitative data is being collected?
 
-#### Methodology and participants
+### Methodology and participants
 
 A good ~={cyan}**methodology**=~ will list:
 
@@ -160,7 +160,7 @@ The ~={cyan}**participants**=~ section of your UX research study plan should inc
 - An incentive for people to participate, like a $10 CoffeeHouse gift card to any physical or online store.
 - A means to thank the participants for their time, like a short thank-you message
 
-#### Questions to assess your ~={cyan}methodology=~ and ~={cyan}participants=~
+### Questions to assess your ~={cyan}methodology=~ and ~={cyan}participants=~
 
 As you assess your work, here are some guiding questions you can use. Have you constructed a UX research study plan methodology that:
 
@@ -174,7 +174,43 @@ From your methodology, were you able to decide:
 - The primary characteristics that make your participants ideal for the test and ensure that you’re gathering feedback from people with diverse perspectives and abilities?
 - The incentive that makes participants want to be involved in the study and that thanks them for their time?
 
+### Script
+
+First, notice how the ~={cyan}script=~ starts with an **~={yellow}introduction=~.** This introduction: 
+- Asks for the participant’s consent to record the interview
+- Informs the participant that the interview is not a test, and that no answer is wrong
+- Assures the participant that it’s okay to ask questions
+- Explains why the participant’s data is being collected
+- Asks for basic information about the participant’s relationship with the product.
 
 
+Together, these elements of the introduction will help the researcher achieve three important objectives:
+1. Gather important demographic data about the participant.
+2. Set a professional tone for the interview.
+3. Help participants feel comfortable during the interview.
 
-### Also check out / References
+~={cyan}Second=~, create a series of **prompts and follow-up questions.** These prompts and questions will help you investigate the KPIs they chose earlier in their research plan. 
+
+Each ~={yellow}prompt=~ outlines a task for participants to complete, so the researcher can record how each participant responds. 
+
+After these tasks are complete, the prompt’s ~={yellow}follow-up questions=~ will help the researcher learn what the participant’s experience was like.
+
+Now consider the content, style, and tone of the prompts and follow-up questions. They are:
+1. **Open-ended**: Encourage action, discussion, reflection rather than short “yes or no” responses.
+2. **Objective**: Avoid giving clues about how to complete a task, leading participants toward particular answers, and revealing the researchers’ biases.
+3. **Goal oriented**: Relate directly to the research plan’s KPIs and research goals.
+    
+
+When prompts and follow-ups meet these criteria, they help researchers gather rich in
+
+### Self-examination questions for your ~={cyan}script=~
+
+When you create research plans (either in your portfolio project or on the job), consider using the example for reference and comparison. Ask yourself 
+
+**Does my research script**
+- Start with an introduction that gathers demographic data and sets the right tone
+- Contain prompts and follow-up questions that can be read the same way to all participants
+- Encourage open-ended action, discussion, and reflection
+- Remain objective and avoids leading participants or introducing bias
+- Directly address your research plan’s KPIs and research goals
+## Also check out / References

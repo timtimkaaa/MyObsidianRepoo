@@ -8,6 +8,9 @@
 
 <hr>
 
+- Add search to promotions
+
 - Survey people when editing list for the first time in a session, searching for an alternative and so on.
+
 
 ### Also check out / References
