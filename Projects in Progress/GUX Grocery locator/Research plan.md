@@ -42,6 +42,9 @@
 
 ### Participants
 
+- Participants are people who go shopping to medium-to-large stores at least once a week. They could usually go alone or ~={cyan}with someone=~.
+- 
+
 
 
 
