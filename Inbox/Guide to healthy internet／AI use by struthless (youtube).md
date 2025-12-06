@@ -62,5 +62,37 @@ If yes to any - it might be a crutch and not a good thing to do.
 >[!note] Habitually ask this question:
 >##### **~={blue}What evidence would change your mind?=~**
 
+#### Workout
+
+>[!tip] Read a classic media theory book.
+Classic Media Theory Books: 
+>- https://archive.org/details/onphotography0000sont_l9h0
+>- https://archive.org/details/understandingmed0000mars_g1t0
+>- https://archive.org/details/ellul-propaganda/mode/2up
+>- https://archive.org/details/amusing-ourselves-to-death-public-discourse-in-the-age-of-neil-postman-neil-postman/Amusing%20Ourselves%20to%20Death%20-%20Public%20Discourse%20in%20the%20Age%20of%20--%20Neil%20Postman%2C%20Neil%20Postman%20--%20%28%20WeLib.org%20%29/
+>- https://archive.org/details/pdfy-NekqfnoWIEuYgdZl/mode/2up
+
+## 4. Algorithmic Resistance
+
+#### Warm-Up
+
+>[!note] Use non-algorithmic media
+>- Internet Archive
+>- Way back machine
+>- Local library
+
+
+#### Workout
+
+>[!tip] Create your own curiosity garden
+>E.g.
+>- My contact with flying sausers
+>- Flat earth faq
+>- Hands the true account of a hypnotic subject report in outer space
+>- The great dinosaur mystery solved
+
+
+
+
 
 ## Also check out / References
