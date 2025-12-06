@@ -47,7 +47,17 @@ If yes to any - it might be a crutch and not a good thing to do.
 >- [Cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 >- [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)
 >- [Cognitive distortions](https://en.wikipedia.org/wiki/Cognitive_distortion)
->
+
+#### Workout
+
+>[!tip] Read an extremely falsifiable non-fiction book.
+>E.g.
+>- My contact with flying sausers
+>- Flat earth faq
+>- Hands the true account of a hypnotic subject report in outer space
+>- The great dinosaur mystery solved
+
+3. Mission McClued in
 
 
 ## Also check out / References
