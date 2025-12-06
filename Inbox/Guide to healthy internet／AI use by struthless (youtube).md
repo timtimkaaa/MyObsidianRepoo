@@ -1,7 +1,7 @@
 
 *2025-12-06*
 
-*Status:* New
+*Status:* Finished
 
 *Tags:* #knowledge 
 
@@ -93,10 +93,12 @@ Classic Media Theory Books:
 
 ## 5. Man Plans and Rod Laughs
 
+#### All in one
+
 >[!tip] Just watch the old episodes of The Twilight Zone
 ><br>
 ><br>
->h...at's it
+>... that's it
 >
 
 

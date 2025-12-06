@@ -2,7 +2,7 @@
 
 *Status:* Complete
 
-*Tags:* #relationships #worldview #mind #
+*Tags:* #relationships #worldview #mind
 
 <hr>
 
