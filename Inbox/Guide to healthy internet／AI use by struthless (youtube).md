@@ -11,7 +11,7 @@
 
 #### Warm-Up
 
- >[!tip] Articulate your plan before you unlock your phone 
+ >[!custom-tip] Articulate your plan before you unlock your phone 
  > ### **~={yellow}Why=~ am I unlocking my phone right now?**
  
  
