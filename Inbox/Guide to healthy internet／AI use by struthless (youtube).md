@@ -57,7 +57,10 @@ If yes to any - it might be a crutch and not a good thing to do.
 >- Hands the true account of a hypnotic subject report in outer space
 >- The great dinosaur mystery solved
 
-3. Mission McClued in
+## 3. Mission McClued in:
+
+>[!note] Habitually ask this question:
+>##### **~={blue}What evidence would change your mind?=~**
 
 
 ## Also check out / References
