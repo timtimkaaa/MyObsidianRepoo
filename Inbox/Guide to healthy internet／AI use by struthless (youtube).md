@@ -91,6 +91,13 @@ Classic Media Theory Books:
 >- Hands the true account of a hypnotic subject report in outer space
 >- The great dinosaur mystery solved
 
+## 5. Man Plans and Rod Laughs
+
+>[!tip] Just watch the old episodes of The Twilight Zone
+><br>
+><br>
+>...that's it
+>
 
 
 
