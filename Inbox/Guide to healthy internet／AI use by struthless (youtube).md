@@ -95,13 +95,11 @@ Classic Media Theory Books:
 
 #### All in one
 
->[!tip] Just watch the old episodes of The Twilight Zone
-><br>
+>[!tip] Just 
+>##### Watch the old episodes of The Twilight Zone
 ><br>
 >... that's it
 >
-
-
 
 
 ## Also check out / References
