@@ -1,0 +1,7 @@
+My biggest problem with the world and the only possible reason I would want to be a "world-changer-fighter" is unfairness between people. I believe that everyone must be equal, kind and not put any pressure on anyone else. I also believe that all of the negativity in the world comes from people being unfair and unkind to other people. (Natural events are neutral and don't cause negativity)
+
+And Vova has a very different view of it - one that I can never respect - he's okay with disrespecting and hurting others, at least in some ways. He's ok with leaving people to suffer through a life of disrespect because they're transgender, suffer through a life of misery because they have depression. He believes that weak are just supposed to be under strong. And he's okay with all this, because he believes that these people should take care of themselves and it's not a matter of other people to help them. 
+
+From my point of view it's like using and abusing someone only to say that it's the way it should be and it's their problem that they can't fight back. 
+
+And I can't agree or even respect this idea in any possible way. This is my only exception, the only idea that I believe has no place In the world. This idea is the sole worst thing one can say to the whole world at the same time.
