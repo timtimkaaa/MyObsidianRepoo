@@ -22,7 +22,7 @@ Dec 4   -  20mg/10mg
 Dec 5   -  20mg
 Dec 6   -  20mg/10mg
 Dec 7   -  20mg
-
+Dec 8   -  20mg
 
 
 ### Also check out / References
