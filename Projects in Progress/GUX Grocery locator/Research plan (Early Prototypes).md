@@ -40,7 +40,7 @@
 - Five participants complete making a list and "shop for products". Each participant completes a questionnaire on their experience privately.
 - Each session will last 45 minutes and will include an introduction, a list of tasks, and a short questionnaire.
 
-### Participants
+### [[Participants for early prototype usability testing|Participants]]
 
 - Participants are people who go shopping to medium-to-large stores at least once a week. They could usually go alone or ~={cyan}with someone=~.
 - 2 male, 2 female, 1 - ???, all aged 18-50yo.
