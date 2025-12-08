@@ -8,10 +8,10 @@
 
 - Anna
 - Fedor
-- Kirill
 - Ilya
 - Misha
 - Masha
+- Kirill?
 - Artemiy?
 - Fedor?
 - Kyrylo?
@@ -19,6 +19,7 @@
 - Katya?
 - Dad?
 - Mom?
+- Luca?
 
 
 ### Also check out / References
