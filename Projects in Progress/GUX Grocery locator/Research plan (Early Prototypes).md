@@ -44,7 +44,7 @@
 
 - Participants are people who go shopping to medium-to-large stores at least once a week. They could usually go alone or ~={cyan}with someone=~.
 - 2 male, 2 female, 1 - ???, all aged 18-50yo.
-- 1 user of assistive technology - ???
+- 1 user of assistive technology
 - Incentive: a big thank you.
 
 ### Script
