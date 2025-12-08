@@ -10,7 +10,15 @@
 - Fedor
 - Kirill
 - Ilya
-- 
+- Misha
+- Masha
+- Artemiy?
+- Fedor?
+- Kyrylo?
+- Anton?
+- Katya?
+- Dad?
+- Mom?
 
 
 ### Also check out / References
