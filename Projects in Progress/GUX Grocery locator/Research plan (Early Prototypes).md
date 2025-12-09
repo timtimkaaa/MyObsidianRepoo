@@ -61,9 +61,9 @@
 	- Do you usually go alone or with someone?
 	- Can you talk me through your usual day, on which you go shopping?
 	- Great! If you’re ready, let’s move on to the tasks you’ll be working on.
-- Prompt 1: Imagine you're at a store and you're struggling to find a product. Let's say it's {product}. Now open up the Grocery Locator app on your phone and try to locate that {product}.
+- Prompt 1: Imagine you're at a store and you're struggling to find a product. Let's say it's {product}. Now open up the Grocery Locator app on your phone and try to choose a {product} option, that's *Vegan* and locate it. Just a heads-up you'll know when you see it.
 	- Follow-up: How easy do you feel it is to locate a product?
-- Prompt 2: Now, let's take a different situation: you're making a grocery list before going shopping. Try to create one and fill it out.
+- Prompt 2: Now, let's take a different situation: you're making a grocery list before going shopping. Try to create one and add a {product} there. 
 	- Follow-up: Did you find anything confusing?
 	- Follow-up: Was there any point where you expected something different from what had actually happened?
 - Prompt 3: Now let's say you want to buy a product, but first you want to check if there are any sales for a particular brand of {product}.
