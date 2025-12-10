@@ -23,5 +23,7 @@ In cognitive therapy people compare evidence for and against our negative though
 
 Imagine you're on the 6th floor of a burning building. Your anxiety is telling you that if you fall - you'll die. This is perfectly correct and true, but not a good thing to think of. Instead you should be thinking about ways of getting down.
 
-How 
+### How it works physically in the brain
+
+
 ### Also check out / References
