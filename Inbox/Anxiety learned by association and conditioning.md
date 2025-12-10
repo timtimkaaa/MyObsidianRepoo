@@ -18,6 +18,6 @@ But some thing like sudden loud noises, aggressive people or pain can cause anxi
 
 So even in a seemingly calm environment we can feel anxious because of associations and conditioning. 
 
-Another important aspect of conditioning is that anxiety can not only be conditioned by the thing in environment, but also from within. Say if you get punished for being angry as achild, you associate anger with anxiety.
+Another important aspect of conditioning is that anxiety can not only be conditioned by the thing in environment, but also from within. Say if you get punished for being angry as achild, you associate anger with anxiety, so that in time the system short-circuits and the feeling of anger get automatically triggers anxiety. In this case, when conflicts
 
 ### Also check out / References
