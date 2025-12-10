@@ -22,4 +22,6 @@ Once we become anxious, our minds tends to stay in or return to anxious moments 
 In cognitive therapy people compare evidence for and against our negative thoughts, and finding truth of our thinking. But sometimes it doesn't work:
 
 Imagine you're on the 6th floor of a burning building. Your anxiety is telling you that if you fall - you'll die. This is perfectly correct and true, but not a good thing to think of. Instead you should be thinking about ways of getting down.
+
+How 
 ### Also check out / References
