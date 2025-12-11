@@ -20,3 +20,6 @@ During periods of anxiety, our thinking is focused on threats of potential harm 
 We don't choose to have flushes of anxiety, they're a part of our physiological make up and are there to protect us from possibly harmful situations.
 
 ### Also check out / References
+
+- [[How anxiety works]]
+- [[Types of anxiety]]
