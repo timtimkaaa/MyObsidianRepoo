@@ -5,4 +5,5 @@ Quotes:
 > People with anxiety disorders often ~={cyan}**experience irritability, are easily distracted, are visibly agitated during social interactions, and focus excessively on themselves**=~. 
 > Understandably, these sorts of problems also may affect the quality of their relationships.
 
+> If we stand back and recognize that our brains are built to generate powerful emotions, we can also realize that our experience of these emotions is absolutely not our fault.
 
