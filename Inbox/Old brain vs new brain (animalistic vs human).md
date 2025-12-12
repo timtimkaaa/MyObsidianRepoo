@@ -52,7 +52,7 @@ It also gives us more ways to learn, **besides conditioning**. We can learn thro
 - consequences
 - observation
 - deduction
-- indirect experience.
+- indirect experience
 
 ### How this relates to anxiety
 

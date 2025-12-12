@@ -2,7 +2,7 @@
 
 *Status:* New
 
-*Tags:* #anxiety #psychology #self-improvement #self-trust 
+*Tags:* #knowledge #anxiety #psychology #self-improvement #self-trust 
 
 *Source*: [[The Compassionate Mind - Dennis Tirch]]
 
