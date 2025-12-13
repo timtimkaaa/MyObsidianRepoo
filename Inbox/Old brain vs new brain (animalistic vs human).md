@@ -58,7 +58,15 @@ It also gives us more ways to learn, **besides conditioning**. We can learn thro
 
 The issue arises in collision of the old and the new brain.
 
- Let's use an example. Jennifer's old brain is preconditioned by evolution to seek at
+ Let's use an example. Jennifer's "old brain" is preconditioned by evolution to fight, flight or freeze; seek status, approval, attachment to others and fear being ostracized.
+
+Her personal history (nerdy middle school student, bullied at a school dance) emphasized and reinforced her need to seek approval and be afraid of social rejection. This way she was conditioned to feel anxiety from activities involving social evaluation. 
+
+Additionaly there was a threat to her romantic attachment (partner said they need to date different people for some time, while she wanted to get married soon). That would raise the anxiety threshold too.
+
+When losing relationships in such ways it's conmon to feel anxiety, which is another example of how anxiety interacts with our sense
+
+
 
 
 ### Also check out / References
