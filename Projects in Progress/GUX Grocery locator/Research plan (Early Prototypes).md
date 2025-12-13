@@ -66,9 +66,9 @@
 - Prompt 2: Now, let's take a different situation: you're making a grocery list before going shopping. Try to create one and add that Vegan milk there. 
 	- Follow-up: Did you find anything confusing?
 	- Follow-up: Was there any point where you expected something different from what had actually happened?
-- Prompt 3: Now let's say you want to buy a product, but first you want to check if there are any sales for one of the brands of (product}.
+- Prompt 3: Now let's say before you buy that milk, you want to check if there are any sales for one of the brands of milk.
 	- Follow-up: What was your logic for searching for sales? Did it apply well to this app?
-- Prompt 4: Now let's go back to that list you were making earlier and try to use it to navigate the store. What do you think it looks like?
+- Prompt 4: Now let's go back to that list you were making earlier. Let's imagine these recommended products are also worth buying, so let's add them, and try use navigator to shop. How do you think you can do that?
 	- Follow-up: Try it now, please.
 	- Follow-up: Did your logic for navigation work well with the way it works here?
 ### Also check out / References
