@@ -56,7 +56,9 @@ It also gives us more ways to learn, **besides conditioning**. We can learn thro
 
 ### How this relates to anxiety
 
- 
+The issue arises in collision of the old and the new brain.
+
+ Let's use an example. Jennifer's old brain is preconditioned by evolution to seek at
 
 
 ### Also check out / References
