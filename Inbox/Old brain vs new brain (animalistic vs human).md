@@ -64,7 +64,11 @@ Her personal history (nerdy middle school student, bullied at a school dance) em
 
 Additionaly there was a threat to her romantic attachment (partner said they need to date different people for some time, while she wanted to get married soon). That would raise the anxiety threshold too.
 
-When losing relationships in such ways it's conmon to feel anxiety, which is another example of how anxiety interacts with our sense
+When losing relationships in such ways it's conmon to feel anxiety, which is another example of how anxiety interacts with our sense of safety created by secure and compassionate relationships.
+
+All of this - the motivations, the learned behaviors and the emotions all come from the "old brain".
+
+
 
 
 
