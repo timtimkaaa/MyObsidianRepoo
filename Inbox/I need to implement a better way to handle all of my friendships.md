@@ -15,7 +15,13 @@ So I've come up with a way to sort people to see, who I want to give my limited 
 There are 3 categories:
 - Most important friendships - these are the people who I care for and value the most, and who I want to invest my time in the most.
 - Potential important friendships - these are people, with who I sense that we fit each other and who I feel will get into the " most important friendships" category, but didn't yet.
-- Others - importantly, still my friends, still people I enjoy and respect, but who don't feel as good to be around. All of them are valuable to me, and have all of my respect. They just don't fulfill enough of those specific needs I have at a given moment.
+- Other friends - importantly, still my friends, still people I enjoy and respect, but who don't feel as good to be around. All of them are valuable to me, and have all of my respect. They just don't fulfill enough of those specific needs I have at a given moment.
 
-So here's the current list (and I'll try to update thi)
+So here's the current list (and I'll try to update it once a month):
+- **Most important friendships** 
+	- Dima Letova
+	- Artemiy Gaidashou
+	- Ulyana 
+- **Potential important friendships**
+- **Other friends**
 ### Also check out / References
