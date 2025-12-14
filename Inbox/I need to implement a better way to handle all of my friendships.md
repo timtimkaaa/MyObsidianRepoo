@@ -13,5 +13,6 @@ But now, I have a lot of friends, and I know I don't have to cling on to a perso
 So I've come up with a way to sort people to see, who I want to give my limited time to.
 
 There are 3 categories:
-- Most important friendships - these are the people who I care about the most
+- Most important friendships - these are the people who I care for and value the most, and who I want to invest my time in the most.
+- Potential important friendships - these are people, with who I sense that we fit each other and who I feel i
 ### Also check out / References
