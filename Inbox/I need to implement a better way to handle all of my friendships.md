@@ -19,9 +19,14 @@ There are 3 categories:
 
 So here's the current list (and I'll try to update it once a month):
 - **Most important friendships** 
-	- Dima Letova
 	- Artemiy Gaidashou
-	- Ulyana 
+	- Ulyana (^ girlfriend)
+	- Dima Letova
+	- Egor
+	- Ilya
+	- Artem Narkievich
+	- Anton 
+	- 
 - **Potential important friendships**
 - **Other friends**
 ### Also check out / References
