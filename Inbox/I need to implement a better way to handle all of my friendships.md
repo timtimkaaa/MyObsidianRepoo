@@ -10,5 +10,8 @@ All my life I've dreamed of having a lot of friends. And I have fulfilled that d
 
 But now, I have a lot of friends, and I know I don't have to cling on to a person just because they acknowledged me. So I have to find a mare efficient way to handle the amount of relationships I have. It might look mercantile and hypocritical, but I know for a fact it's not. I care about every single friend I have - they're my friends after all. But I can't be with all of them at the same time, nor can I handle them as it is right now. 
 
-So I've come 
+So I've come up with a way to sort people to see, who I want to give my limited time to.
+
+There are 3 categories:
+- Most important friendships - these are the people who I care about the most
 ### Also check out / References
