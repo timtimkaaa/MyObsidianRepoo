@@ -26,7 +26,12 @@ So here's the current list (and I'll try to update it once a month):
 	- Ilya
 	- Artem Narkievich
 	- Anton 
-	- 
 - **Potential important friendships**
+	- Kiri
+	- Makar
+	- Fedya (Ania)
+	- Ania (Fedya)
+	- Luka
+	- 
 - **Other friends**
 ### Also check out / References
