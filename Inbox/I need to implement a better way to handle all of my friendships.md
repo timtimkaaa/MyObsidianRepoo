@@ -30,11 +30,15 @@ So here's the current list (and I'll try to update it once a month):
 - **Potential important friendships**
 	- Kirill
 	- Makar
-	- Fedya (Ania)
-	- Ania (Fedya)
+	- Fedya (Nogger)
+	- Ania (Nogger)
 	- Luka
-	- Katya (Anton)
+	- Katya (Familia)
+	- Masha
 	- Vova
+	- Fedya (Jazz)
+	- Ars (Jazz)
+	- Kemal 
 	- 
 - **Other friends**
 ### Also check out / References
