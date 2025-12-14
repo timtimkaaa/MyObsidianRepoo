@@ -18,6 +18,7 @@ There are 3 categories:
 - Other friends - importantly, still my friends, still people I enjoy and respect, but who don't feel as good to be around. All of them are valuable to me, and have all of my respect. They just don't fulfill enough of those specific needs I have at a given moment.
 
 So here's the current list (and I'll try to update it once a month):
+
 - **Most important friendships** 
 	- Artemiy Gaidashou
 	- Vlad
@@ -29,6 +30,8 @@ So here's the current list (and I'll try to update it once a month):
 	- Artem Narkievich
 	- Ulyana (Artem)
 - **Potential important friendships**
+	- Zhenya (family)
+	- Maks (family)
 	- Kirill
 	- Makar
 	- Fedya (Nogger)
