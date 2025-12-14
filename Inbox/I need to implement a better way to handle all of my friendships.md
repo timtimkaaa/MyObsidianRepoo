@@ -20,13 +20,14 @@ There are 3 categories:
 So here's the current list (and I'll try to update it once a month):
 - **Most important friendships** 
 	- Artemiy Gaidashou
-	- Ulyana (Artem)
+	- Vlad
 	- Dima Letova
 	- Egor
 	- Ilya
-	- Artem Narkievich
-	- Anton 
 	- Stus
+	- Anton 
+	- Artem Narkievich
+	- Ulyana (Artem)
 - **Potential important friendships**
 	- Kirill
 	- Makar
@@ -39,6 +40,5 @@ So here's the current list (and I'll try to update it once a month):
 	- Fedya (Jazz)
 	- Ars (Jazz)
 	- Kemal 
-	- 
 - **Other friends**
 ### Also check out / References
