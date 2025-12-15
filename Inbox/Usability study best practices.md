@@ -28,11 +28,38 @@ Finally, **make sure the ~={yellow}space=~ for usability testing is ~={yellow}ph
 - For usability studies conducted **online**, communicate whether you’re recording the participants or their screens, and let them know that the recordings will only be used for research related to your test.
 
 ### Put people first
+ 
+ - Use pronouns and courtesy titles (mr, ms, mrs). 
+ - When with an interpreter, always address the person, not the interpreter
+ - Use **people-first language**, e.g. people with disability > disabled people
+ - Don't forget about marginalized communities
+
+### Don't skip the paperwork
+
+ - Now you need to take care of some paperwork. Ask participants to sign a **~={yellow}nondisclosure agreement=~** (NDA), which informs participants that they can’t talk about your product or the usability study publicly. 
+	 -  If the NDA is set up correctly, it helps build trust with participants and increase rapport.
+ - Participants also need to sign paperwork to **~={yellow}allow their session to be recorded=~**. 
+	 - You might record a usability study session through a paper note sheet, screen recorder, video recorder, or audio recorder. 
+	 - Recording sessions makes it easier to turn observations into insights later, but participants will need to be aware of this process and provide consent.
 
 
+### Communicate clearly
+
+~={yellow}**Explain the focus of the study**=~ and what participants will give feedback on. Give the participant a roadmap or preview of what’s to come during the session. Be sure to ask the participant if the study you’ve explained will be okay with them before proceeding.
+
+You’ll want to introduce the ~={yellow}**think-aloud method**=~, which is a type of data gathering that has participants turn their internal thoughts into shared ideas through spoken, signed, or typed words.
+- When you use the think-aloud method, participants explain what they’re doing while they’re completing tasks. This gives you, as the researcher, an opportunity to record exactly what participants are thinking about a product, in addition to what you observe them doing during the study. 
+- With this method, it’s crucial that participants know that they can be honest; they can’t offend you because their observations are helpful to improving the designs.
+
+Also, **remind participants that ~={yellow}they are not being tested=~**. The goal is to understand how the user is experiencing your product, so **there’s no right or wrong answer!** If the participant can’t complete a task, that isn’t a reflection of their personal abilities; it’s a reflection of the design’s usability.
+
+If you’re ever unsure about the feedback participants are sharing, try to **~={yellow}summarize their ideas for confirmation=~**. 
+- Repeat back what you _think_ the participant means, and encourage them to correct or confirm the statement.
 
 
+### Ask the right questions
 
+- 
 
 ### Also check out / References
 
