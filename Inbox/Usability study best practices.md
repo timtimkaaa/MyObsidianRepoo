@@ -59,7 +59,16 @@ If you’re ever unsure about the feedback participants are sharing, try to **~=
 
 ### Ask the right questions
 
-- 
+When it comes to usability studies, the questions you ask and the ways you ask them directly impact the insights you uncover. Sometimes the best nuggets of information come from a participant building on a point or clarifying themselves, rather than directly answering one of your questions. Here are a few tips to ask the right questions during a usability study:
+
+- **Use the same set of questions with each participant**. Usability studies typically focus on one person at a time, so you want your conversations with each user to be about the same design features. Keep your research consistent.
+- **Ask open-ended questions**. Avoid asking “yes” or “no” questions. Instead, ask questions that start with “why.” This will allow for more detailed feedback and might reveal useful information you can later include in your product.
+- **Encourage elaboration.** Sometimes, the script of questions you pre-wrote while planning the study isn’t thorough enough. Ask follow-up questions if you need to dig deeper. Maybe something unexpected came up and you want to explore it, or you didn’t get enough information from a participant’s first response and need them to elaborate. If you’re unsure how to ask a follow-up question, the phrase “tell me more about that” usually works. 
+- **Ask the same question from different angles.** Interviews can be awkward, so it might take awhile before you find out what participants really think. You can prepare for this delay by asking the same question from multiple angles. 
+	- For example, you might ask, “How often do you go to the grocery store?” at the start of the interview; then, “How many times per week do you go to the grocery store” in the middle of the interview. The participant might give you a more detailed answer the second time around, which can help you get more accurate insights and useful data.
+- **Don’t mention other participants.** Talking about other participants can lead to privacy violations and skew the answers of the participant you’re with, which leads to inaccurate data.
+- **Don’t ask leading questions.** Be careful about how you word each question. Participants can pick up on your preconceived notions if your questions are worded in a biased way. 
+	- For example, if you ask, “Why do you think apples are more popular than pears?” then the participant is primed to answer positively about apples and negatively about pears. Instead, try asking a more neutral, open-ended question, like: “Do you prefer apples or pears, and why?”
 
 ### Also check out / References
 
