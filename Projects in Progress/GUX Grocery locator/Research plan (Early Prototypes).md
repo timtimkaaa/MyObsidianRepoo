@@ -29,8 +29,7 @@
 
 - Time on task
 - User error rates
-- System Usability Scale
-- Drop off rates (additional)
+- Task success rate
 
 ### Methodology
 
@@ -63,7 +62,7 @@
 	- Great! If you’re ready, let’s move on to the tasks you’ll be working on.
 - Prompt 1: Imagine you're at a store and you're struggling to find a product. Let's say you need vegan milk. Now open up the Grocery Locator app on your phone and try to find and locate it.
 	- Follow-up: How easy do you feel it is to locate a product?
-- Prompt 2: Now, let's take a different situation: you're making a grocery list before going shopping. Try to create one and add that Vegan milk there. 
+- Prompt 2: Now, let's take a different situation: you're making a grocery list before going shopping. Try to create one and add that 2 bottles of Vegan milk there. 
 	- Follow-up: Did you find anything confusing?
 	- Follow-up: Was there any point where you expected something different from what had actually happened?
 - Prompt 3: Now let's say before you buy that milk, you want to check if there are any sales for one of the brands of milk.
