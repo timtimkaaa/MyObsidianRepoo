@@ -2,7 +2,7 @@
 
 *Status:* Finished
 
-*Tags:* #mind#worldview 
+*Tags:* #mind #worldview #communication #feelings
 
 <hr>
 
