@@ -29,8 +29,7 @@
 
 - Time on task
 - User error rates
-- System Usability Scale
-- Drop off rates (additional)
+- Drop off rates 
 
 ### Methodology
 
