@@ -29,7 +29,7 @@
 
 - Time on task
 - User error rates
-- Drop off rates 
+- Task success rate
 
 ### Methodology
 
