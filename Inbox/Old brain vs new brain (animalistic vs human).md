@@ -76,7 +76,9 @@ And then her "new brain" would conjure up corresponding images. She would see he
 
 Her “new brain” had a necessary tendency to respond to imaginary things as if they were real, and this meant that her heart would pound, her stomach would churn, and **her body and mind would prepare themselves for what they perceived to be a life-threatening situation**, despite the fact that she was lying safely in bed, miles away from such an experience.
 
-But
+But her "old brain" narrowed her focus on avoiding dangers, real or not. And when she tried to suppress these thoughts and feelings, it backfired and instead kept her focused on her anxieties.
+
+Th
 
 
 
