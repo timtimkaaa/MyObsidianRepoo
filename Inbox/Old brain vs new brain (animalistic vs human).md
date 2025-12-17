@@ -66,8 +66,17 @@ Additionaly there was a threat to her romantic attachment (partner said they nee
 
 When losing relationships in such ways it's conmon to feel anxiety, which is another example of how anxiety interacts with our sense of safety created by secure and compassionate relationships.
 
-All of this - the motivations, the learned behaviors and the emotions all come from the "old brain".
+All of this - the motivations, the learned behaviors and the emotions all came from the "old brain".
 
+Then the "new brain" would start reacting to the stirrings "old brain". Laying in bed at night, her "old brain" would make her tell herself: 
+
+>"*I’m going to be like this forever—I know it. Everyone at school can see I’m a nervous wreck, and there’s just no way out. I’m a fraud. I try to seem so competent, but I’m barely functioning. Who’d want to be with a person like this? No wonder my boyfriend left me. I’m going to die alone after living in a squalid apartment with thirty cats!*".
+
+And then her "new brain" would conjure up corresponding images. She would see herself being laughed at, almost smell the old apartment she would end up in. 
+
+Her “new brain” had a necessary tendency to respond to imaginary things as if they were real, and this meant that her heart would pound, her stomach would churn, and **her body and mind would prepare themselves for what they perceived to be a life-threatening situation**, despite the fact that she was lying safely in bed, miles away from such an experience.
+
+But
 
 
 
