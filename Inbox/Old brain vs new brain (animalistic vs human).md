@@ -21,7 +21,7 @@ So to rephrase, our Old Brain takes care of:
 	- Feeding
 	- Fighting
 	- Fleeting
-	- Fucking - sexual interests and motives
+	- ... sexual interests and motives
 - ~={yellow}**Learning by conditioning**=~
 - ~={yellow}**Basic emotions**=~, e.g. 
 	- anxiety
@@ -78,8 +78,7 @@ Her “new brain” had a necessary tendency to respond to imaginary things as i
 
 But her "old brain" narrowed her focus on avoiding dangers, real or not. And when she tried to suppress these thoughts and feelings, it backfired and instead kept her focused on her anxieties.
 
-Th
-
+Here we see how anxiety can appear and linger from the "old brain" and the "new brain" interacting with each other. 
 
 
 
