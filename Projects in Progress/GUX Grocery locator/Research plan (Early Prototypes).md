@@ -55,12 +55,14 @@
 	- This data is being collected to help create an app that makes grocery shopping easier. Your answers will help us make the app easier for people to use.
 	- This is a simple prototype, so try to use your imagination to make it look more real to you.
 - Basic questions:
-	- Do you live close to any big grocery stores (like Auchan, Carrefour, Eurospar)?  Ilya: no, mid yes
+	- Do you live close to any big grocery stores (like Auchan, Carrefour, Eurospar)? 
+	
 	- Do you go there often and how often?
-		- 1 mb more /wk
+	
 	- Do you usually go alone or with someone?
-		- alone
+	
 	- Can you talk me through your usual day, on which you go shopping?
+	
 	- Great! If you’re ready, let’s move on to the tasks you’ll be working on.
 - Prompt 1: Imagine you're at a store and you're struggling to find a product. Let's say you need vegan milk. Now open up the Grocery Locator app on your phone and try to find and locate it.
 	- Follow-up: How easy do you feel it is to locate a product?
