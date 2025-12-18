@@ -29,7 +29,10 @@
 21. Dec 12 -  20mg/10mg
 22. Dec 13 -  20mg
 23. Dec 14 -  20mg/10mg
-24. Dec 15 - 
+24. Dec 15 -  20mg
+25. Dec 16 -  20mg/10mg
+26. Dec 17 -  20mg
+27. Dec 18 -  20mg/10mg
 
 
  ### Also check out / References
