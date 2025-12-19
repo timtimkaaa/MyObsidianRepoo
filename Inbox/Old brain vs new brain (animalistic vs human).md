@@ -2,7 +2,7 @@
 
 *Status:* New
 
-*Tags:* 
+*Tags:* #knowledge #anxiety #psychology #self-improvement 
 
 *Source*: 
 

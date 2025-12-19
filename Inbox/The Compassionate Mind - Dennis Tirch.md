@@ -7,3 +7,9 @@ Quotes:
 
 > If we stand back and recognize that our brains are built to generate powerful emotions, we can also realize that our experience of these emotions is absolutely not our fault.
 
+- [[What is anxiety]]
+- [[Types of anxiety]]
+- [[How anxiety works]]
+- [[Anxiety learned by association and conditioning]]
+- [[Anxiety learned by consequences]]
+- [[Old brain vs new brain (animalistic vs human)]]

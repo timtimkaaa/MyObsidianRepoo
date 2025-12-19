@@ -1,6 +1,6 @@
 *2025-12-10*
 
-*Status:* New
+*Status:* Finished
 
 *Tags:* #knowledge #anxiety #psychology #self-improvement 
 
