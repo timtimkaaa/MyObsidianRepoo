@@ -16,6 +16,6 @@ This book suggests, that there are no good or bad choices in life and there's no
 
 **Everyone's path is unique and different**, even if some of us strive for the same goals. But we can all do it, no matter what shape our path will be. ~={yellow}**If we choose the path of content and honesty with ourselves, without any doubt, we are able to get there and enjoy the whole journey**.=~
 
-But it's important to not only make *honest* choices, but also to make them [[I should always make choices from the place of positivity|from a place of positivity]]
+But it's important to not only make *honest* choices, but also to make them [[I should always make choices to commit, not avoid|from a place of positivity]]
 
 ### Also check out / References
