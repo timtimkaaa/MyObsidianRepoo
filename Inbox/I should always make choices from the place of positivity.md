@@ -8,6 +8,8 @@
 
 <hr>
 
+>[!quote] ~={cyan}   Nie żal ci, że cię tu nie ma?=~
+
 
 
 ### Also check out / References

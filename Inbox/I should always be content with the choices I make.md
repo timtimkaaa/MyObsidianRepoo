@@ -8,7 +8,7 @@
 
 <hr>
 
->[!quote] 
+>[!quote] ~={cyan}   Nie żal ci, że cię tu nie ma?=~
 
 "Sometimes life gives us chances". Or more accurately, life constantly offers us choices that shape our future. Those choices form a path, that *ideally* leads to our goals. But to make it lead to our goals we have to make the *right* choices that get us closer to those goals. This is something obvious we all know. But of course there's more to it.
 
