@@ -1,0 +1,1 @@
+https://uxplanet.org/job-hunting-as-a-ux-ui-designer-in-2025-what-worked-for-me-and-what-didnt-61f15c75fbc6

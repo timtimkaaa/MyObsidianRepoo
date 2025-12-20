@@ -1,0 +1,1 @@
+If they show all of their controversial personalities and don't hide anything, they build trust with the audience and people are much more likely to vibe with some sides of the author's character.

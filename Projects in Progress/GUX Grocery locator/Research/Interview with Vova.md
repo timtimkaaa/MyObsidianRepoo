@@ -1,0 +1,112 @@
+*2025-10-03
+
+*Status:* Finished
+
+*Tags:* #UX #GUX #interviews #research 
+
+*Project:* GUX Grocery Locator
+
+<hr>
+
+## 📌 Summary by ChatGPT
+
+### 1. Common challenges fitting grocery shopping into busy schedules
+
+- Despite shopping _very frequently_ (up to twice daily), the interviewee does not frame it as a time-management issue — it’s embedded in routine.
+- However, reliance on small, nearby stores may be a _time-saving strategy_ (chooses convenience over variety).
+- Cooking is constrained by time: they don’t want to spend too much on recipes or strict processes.
+
+**Insight:** Frequent small trips replace planned larger shopping, which may reduce perceived scheduling challenges but create dependency on local store availability.
+
+---
+
+### 2. Frustrations in selecting and gathering groceries
+
+- **Main frustration:** Absence of needed products in small shops.
+- **Secondary frustration:** High prices.
+- Generally, does not feel many problems in-store navigation or product selection — process is simple: “just buy and go.”
+- Larger stores are avoided, even though they would solve assortment issues.
+
+**Insight:** Frustrations are tied less to decision-making and more to _store limitations_ (product availability, pricing).
+
+---
+
+### ✅ Key Takeaways for Research Goal
+
+- Shopping is **extremely frequent and embedded in daily routine**, so not perceived as a scheduling conflict.
+- **Main pain point:** small store limitations (missing products, high prices).
+- **Cooking barrier:** lack of time and dislike of rigid recipes — enjoyment comes only with freedom and creativity, which requires more effort.
+- Unlike the first interviewee, this person faces **more frustration with store stock** but still doesn’t find the act of grocery shopping itself stressful.
+
+## Interview transcript
+
+Speaker 2  (00:02)
+Как часто выходите в магазин за продуктами? 
+
+Speaker 1  (00:11)
+Раз, два раза в день 
+
+Speaker 2  (00:13)
+Спасибо, и когда ты идёшь в магазин? 
+
+Speaker 1  (00:21)
+С утра и ближе к вечеру. 
+
+Speaker 2  (00:26)
+Пожалуйста, опиши мне Свои цели в магазине и другие обстоятельства по типу там ограничения по времени, какая-то диета. 
+
+Speaker 1  (00:39)
+Цель купить продукты на сегодняшний день. Вот при то, что мне предотвращает это то. Что в магазин маленький Иногда это не бывает кое-что не нужно. 
+
+Speaker 1  (00:53)
+М. 
+
+Speaker 2  (00:54)
+Но вот собственно, следующий вопрос. Ходишь ли ты в Большие магазины? 
+
+Speaker 1  (01:03)
+Нет 
+
+Speaker 1  (01:05)
+Наверное, не скажу это в общем, магазин имеется в виду, наверное, именно карефур, который у нас недалеко. 
+
+Speaker 2  (01:13)
+Хорошо, и как свободно ты чего себя чувствуешь относительно своего бюджета во время шоппина. 
+
+Speaker 1  (01:25)
+Я не знаю. А что это значит? Насколько у меня свободно тело, могу ли я купить весь магазин, есть ли у меня такое чувство? 
+
+Speaker 2  (01:38)
+Ну насколько ты спокоен во время покупок? Насколько ты волнуешься или не волнуешься насчёт своих расходов? Окей, так как часто ты готовишь дома и какие испытания при этом ты испытываешь? 
+
+Speaker 1  (02:06)
+Я не очень оригинальный. Например, ну, как это. Когда я готовлю, мне нужно, чтобы как бы 
+
+Speaker 1  (02:22)
+Мне Нужна свобода. Я хочу ну, чтоб я получал удовольствие отготовки, мне надо, чтобы всё я как захотел, так и сделал, Я сам это придумал, Я сам этот это сделал, ну и примерно рецепт. А когда ты читаешь в какой-то рецепте, сказали Вот так Вот так и точно по тем шагам идти. 
+
+Speaker 1  (02:38)
+Я от этого удовольствия никакого не получается. А мне и при этом я ей заниматься этим Не хочу типа, я бы хотел, но я не буду этим заниматься типа, у меня есть другие дела, поэтому моя Готовка сводится к тому што, я не получаю от этого удовольствия. А для того, чтобы начать получать от этого удовольствие, надо больше надо тратить время. 
+
+Speaker 2  (02:57)
+Я понял. А теперь Расскажи мне побольше про какие проблемы ты испытываешь во время шопинга, когда ты выбираешь, какие продукты купить и когда ты собираешь продукты по магазину. 
+
+Speaker 1  (03:14)
+И какие? "Высокая цена" вообще есть смысл называть. 
+
+Speaker 2  (03:21)
+Да да что угодно имеет смысл. 
+
+Speaker 1  (03:25)
+То в целом, ну как бы. Отсутствие каких то продуктов это проблема № 1. Вот ну а большинстве случаев на никаких проблем не испытал просто покупал и все. 
+
+Speaker 2  (03:40)
+Хорошо, спасибо. 
+
+Speaker 1  (03:44)
+Ммм 
+
+Speaker 2  (03:46)
+Ну и в таком случае это конклейтс. А. Интервью 
+Voice 251003_101321
+

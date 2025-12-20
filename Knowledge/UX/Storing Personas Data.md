@@ -1,0 +1,12 @@
+- Can be in single doc
+- Split into sections
+	- Attributes
+	- Goals
+	- Scenarios of use
+	- Background info
+- Include references to the source
+- DON'T share the doc, share the info from it in easily consumable chunks like
+	- Posters
+	- Summary documents
+  Use research to backup and clarify statements
+- 

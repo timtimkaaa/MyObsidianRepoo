@@ -1,0 +1,1 @@
+And I have to learn to love it first to then make it into my passion and then maybe into my Magnum opus

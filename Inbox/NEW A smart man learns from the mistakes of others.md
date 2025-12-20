@@ -1,0 +1,3 @@
+Return: [[Mind core]]
+
+A
