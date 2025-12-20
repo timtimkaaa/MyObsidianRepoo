@@ -38,33 +38,33 @@ With misha
 
 ### 1. Task success rate
 
-Task 1. 
+Task 1. S
 
-Task 2. 
+Task 2. PS
 
-Task 3. 
+Task 3. PS almost S
 
 Task 4.
 
 ### 2. Time on task
 
-Task 1. 
+Task 1. 35 sec
 
-Task 2. 
+Task 2. 58 sec
 
-Task 3. 
+Task 3. 1 38
 
-Task 4. 
+Task 4. 1 40 
 
 ### 3. User errors 
 
-Task 1. 
+Task 1. None
 
-Task 2. 
+Task 2. Home on home. Didn't understand how to change amt
 
-Task 3. 
+Task 3. Checked under product options. 
 
-Task 4.
+Task 4. Didn't get navigation button
 
 ## Suggestions
 
