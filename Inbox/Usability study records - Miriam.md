@@ -12,15 +12,16 @@
 
 - Do you live close to any big grocery stores (like Auchan, Carrefour, Eurospar)?  
 
-
+Yes
 
 - Do you go there often and how often?
 
+2/wk
 
 
 - Do you usually go alone or with someone?
 
-
+With misha
 
 
 ## Prompts for tasks performed
