@@ -143,6 +143,7 @@ Now et's go in detail month by month:
 - Got really good at swimming
 - Started learning beside work
 - Doubled the amount of friends 
+- Finally went to a dermatologist
 
 **Inner**
 - Started noting my thoughts actively 
@@ -158,7 +159,6 @@ Now et's go in detail month by month:
 - Met and made friends with even more people in the debates club
 - Handled well getting fired 
 - Found a new job as an data annotator
-- Finally went to a dermatologist
 
 **Inner**
 - Set off to handle winter better than the year before (without depression)
