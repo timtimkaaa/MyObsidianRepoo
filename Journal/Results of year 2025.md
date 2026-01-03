@@ -1,8 +1,8 @@
 *2026-01-01*
 
-*Status:* New
+*Status:* To review
 
-*Tags:* #journaling 
+*Tags:* #journaling #end_of_rhe_year
 
 <hr>
 
@@ -10,7 +10,7 @@ This year was a lot. It was a very productive one and I really do feel proud of 
 
 Overall I have
 
-- Done:
+- Achieved:
 	- Worked 2 different jobs: Interpreter (3mths), data annotator (2mths)
 	- Made so many friends I have to now think how to handle them
 	- Made my self-image much better
