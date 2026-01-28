@@ -13,7 +13,7 @@
 - Festiwale filmowe
 - Rave'y
 - Randkowe wydarzenia
-- Teatr (około doma)
+- Teatr (około doma!!)
 
 
 ### Also check out / References
