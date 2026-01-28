@@ -6,5 +6,7 @@
 
 ! Zapisać się w II połowie grudnia - tydzień przed wizytą kardiologa
 
+09.02.2026 8:00 - badania krwi
+
 16.02.2026 10:20 - Kardiolog
 
