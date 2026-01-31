@@ -7,7 +7,7 @@
 <hr>
 
 - Targi staroci
-- Mikro wycieczki
+- Mikrowyprawy
 - Muzeum
 - Galerie i wystawy
 - Festiwale filmowe
