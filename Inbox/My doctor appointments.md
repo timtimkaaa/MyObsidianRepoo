@@ -10,3 +10,6 @@
 
 16.02.2026 10:20 - Kardiolog
 
+22.0
+
+**Zapisać się** do dermatologa
