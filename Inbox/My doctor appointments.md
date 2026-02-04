@@ -10,6 +10,6 @@
 
 16.02.2026 10:20 - Kardiolog
 
-22.0
+22.04.2026 13:30 - Test wysiłkowy
 
 **Zapisać się** do dermatologa
