@@ -9,8 +9,9 @@ Neccessities: 1220
 Restaurants - 200
 Taxi - 28
 Sports - 285
-Subscriptions - 182
+Subscriptions - 180
 Presents - 160
-Luxury and entertainment: 855
+Library - 20
+Luxury and entertainment: 875
 
 Total: 1831
