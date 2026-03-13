@@ -2,7 +2,7 @@
 
 *Status:* Ongoing
 
-*Tags:* #addiction #self-improvement 
+*Tags:* #self-improvement  #addiction 
 
 <hr>
 
@@ -11,11 +11,11 @@
 
 Adventurous vibes:
 - Go to one of the [[Art Places]]
+- Go to the library
 - Go to a dancing event
 - Go to philosophy club
 - Go to tea club
 - Go to one of the [[Artsy cafes and such]]
-- 
 
 Friendly vibes:
 - Play music with Fedya
