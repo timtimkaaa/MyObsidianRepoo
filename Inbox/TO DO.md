@@ -1,1 +1,3 @@
-Check
+- [ ] Come up with a vibe for Hell yeah
+- [ ] Figure out my taxes
+- [ ] Work
