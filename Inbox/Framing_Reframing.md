@@ -1,5 +1,5 @@
 Strategies for reframing:
-- Friendly
+- Supportive
 	- Expansion 
 	- Connector
 	- Reframe to benefit
