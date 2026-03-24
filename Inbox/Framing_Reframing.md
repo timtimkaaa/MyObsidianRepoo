@@ -1,8 +1,10 @@
 Strategies for reframing:
-- Expansion 
-- Connector
-- Reframe to benefit
-- Comparative framing
-- Frame flipping
-- Diminization framing
-- Trade off framing
+- Friendly
+	- Expansion 
+	- Connector
+	- Reframe to benefit
+	- Comparative framing
+- Opposing
+	- Frame flipping
+	- Diminization framing
+	- Trade off framing
