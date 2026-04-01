@@ -37,10 +37,24 @@ What I need to do this week:
 Wednesday:
 1. Work on UX
 2. Work on Yeehaw song
-3. Work on homework for statistics
+3. Make homework
 4. Plan baking sesh with Kathy and Alan
 5. Meet with Rostik at 7pm
 6. Get on call with Luka at 10:30pm
+
+Thursday:
+1. Wake up 8am
+2. Finish module 3 GUX
+3. Complete the interview for All Right
+4. Work on Luka's song
+5. Go to Łomianki
+6. Lecture at 5pm
+7. Kirill 7:30pm
+
+Friday:
+1. Mid module 4 GUX
+2. Make first half of mobile systems project
+3. 
 
 
 ### Also check out / References
