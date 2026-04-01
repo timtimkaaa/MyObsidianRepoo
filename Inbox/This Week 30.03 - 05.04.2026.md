@@ -1,0 +1,33 @@
+*2026-04-01*
+
+*Status:* New
+
+*Tags:* 
+
+<hr>
+
+It's Wednesday already, but anyways. Let's plan the latter part of the week.
+
+What I need to do this week:
+
+1. Finish the current GUX course
+2. Get the internship documents signed
+3. Bring internship docs to the university
+4. Make Easter cakes with Alan and Kathy
+5. Prepare homework for Statistics
+6. Plan the diploma project
+7. Make half of the mobile systems project
+8. Meet with Dana
+9. Meet with Rostik
+10. Have Luka tell me more about the job
+11. Complete the interview for All RIght
+12. Plan Easter
+	1. Church
+	2. Who to meet with
+	3. Where to go
+13. Clean up the apartment
+14. Put my stuff on sale
+15. Plan next week
+16. Buy pills and face moisturizer
+
+### Also check out / References
