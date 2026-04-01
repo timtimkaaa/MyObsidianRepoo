@@ -39,6 +39,8 @@ Wednesday:
 2. Work on Yeehaw song
 3. Work on homework for statistics
 4. Plan baking sesh with Kathy and Alan
-5. Meet with Rostik at 7
-6. Get on call with Luka at 10:30
+5. Meet with Rostik at 7pm
+6. Get on call with Luka at 10:30pm
+
+
 ### Also check out / References
