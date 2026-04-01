@@ -38,9 +38,10 @@ Wednesday:
 1. Work on UX
 2. Work on Yeehaw song
 3. Make homework
-4. Plan baking sesh with Kathy and Alan
-5. Meet with Rostik at 7pm
-6. Get on call with Luka at 10:30pm
+4. Print internship docs
+5. Plan baking sesh with Kathy and Alan
+6. Meet with Rostik at 7pm
+7. Get on call with Luka at 10:30pm
 
 Thursday:
 1. Wake up 8am
