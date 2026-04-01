@@ -31,6 +31,7 @@ What I need to do this week:
 16. [ ] Put my stuff on sale
 17. [ ] Plan next week
 18. [ ] Buy pills and face moisturizer
+19. [ ] Celebrate green Friday
 
 
 Wednesday:
