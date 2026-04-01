@@ -35,7 +35,9 @@ What I need to do this week:
 
 Wednesday:
 1. Work on UX
-2. Work on a song
+2. Work on Yeehaw song
 3. Work on homework for statistics
-4. 
+4. Plan baking sesh with Kathy and Alan
+5. Meet with Rostik at 7
+6. Get on call with Luka at 10:30
 ### Also check out / References
