@@ -39,9 +39,10 @@ Wednesday:
 2. Work on Yeehaw song
 3. Make homework
 4. Print internship docs
-5. Plan baking sesh with Kathy and Alan
-6. Meet with Rostik at 7pm
-7. Get on call with Luka at 10:30pm
+5. Buy pills and face moisturizer
+6. Plan baking sesh with Kathy and Alan
+7. Meet with Rostik at 7pm
+8. Get on call with Luka at 10:30pm
 
 Thursday:
 1. Wake up 8am
@@ -55,7 +56,19 @@ Thursday:
 Friday:
 1. Mid module 4 GUX
 2. Make first half of mobile systems project
+3. Go to polish speaking club with Dana❓
+
+Saturday:
+1. Finish module 4
+2. Call with grandparents
+3. Work on music
+4. Plan next week
+5. Call with parents❓
+6. Cook with Kathy and Alan
+7. Clean up
+
+Sunday:
+1. Go to church
+2. Celebrate Easter
 3. 
-
-
 ### Also check out / References
