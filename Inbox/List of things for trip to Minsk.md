@@ -7,12 +7,14 @@
 <hr>
 
 Tech
-- Laptop
-- Power supply
-- Charger
-- Mouse
-- Audio interface and cable 
-- Camera?
-Tec
+- laptop
+- power supply
+- charger
+- mouse
+- audio interface and cable 
+- camera?
+Clothes
+- Black baggy pants
+- 
 
 ### Also check out / References
