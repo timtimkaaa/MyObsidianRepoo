@@ -14,13 +14,13 @@ Tech
 - [ ] audio interface and cable 
 - [ ] camera?
 Clothes
-- [ ] black baggy pants
 - [ ] blue hoodie
 - [ ] brown jeans
-- [ ] black jacket
+- [ ] 
+- [ ] grey jacket
 - [ ] striped sweater
 - [ ] turtleneck
-- [ ] 5 underpants 
+- [x] 5 underpants 
 - [x] 4 black socks
 - [x] 2 brown socks
 Gifts for friends
