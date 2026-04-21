@@ -21,8 +21,8 @@ Clothes
 - [ ] striped sweater
 - [ ] turtleneck
 - [ ] 5 underpants 
-- [ ] 4 black socks
-- [ ] 2 brown socks
+- [x] 4 black socks
+- [x] 2 brown socks
 Gifts for friends
 - 
 Drawing tools
