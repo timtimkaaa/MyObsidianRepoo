@@ -17,6 +17,9 @@ Clothes
 - black baggy pants
 - blue hoodie
 - brown jeans
+- black jacket
+- striped sweater
+- turtleneck
 - 
 
 ### Also check out / References
