@@ -23,6 +23,9 @@ Clothes
 - 5 underpants 
 - 4 black socks
 - 2 brown socks
-- How to f
+Misc 
+- Izotek 10 and 20
+- Magnesium?
+- 
 
 ### Also check out / References
