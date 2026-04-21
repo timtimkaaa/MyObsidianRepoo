@@ -20,6 +20,9 @@ Clothes
 - black jacket
 - striped sweater
 - turtleneck
-- 
+- 5 underpants 
+- 4 black socks
+- 2 brown socks
+- How to f
 
 ### Also check out / References
