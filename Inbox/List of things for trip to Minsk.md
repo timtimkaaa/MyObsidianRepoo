@@ -25,8 +25,10 @@ Clothes
 - 2 brown socks
 Gifts for friends
 - 
+
 Misc 
 - Izotek 10 and 20
 - Magnesium?
+- Prid
 
 ### Also check out / References
