@@ -25,7 +25,12 @@ Clothes
 - 2 brown socks
 Gifts for friends
 - 
-
+Drawing tools
+- 
+Wash bag
+- cleanser
+- moisturizer
+- 
 Misc 
 - Izotek 10 and 20
 - Magnesium?
