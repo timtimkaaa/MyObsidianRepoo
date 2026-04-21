@@ -29,6 +29,6 @@ Gifts for friends
 Misc 
 - Izotek 10 and 20
 - Magnesium?
-- Prid
+- Pride and Prejudice
 
 ### Also check out / References
