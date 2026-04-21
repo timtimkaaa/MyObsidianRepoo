@@ -7,14 +7,16 @@
 <hr>
 
 Tech
-- laptop
-- power supply
-- charger
-- mouse
-- audio interface and cable 
-- camera?
+- [ ] laptop
+- [ ] power supply
+- [ ] charger
+- [ ] mouse
+- [ ] audio interface and cable 
+- [ ] camera?
 Clothes
-- Black baggy pants
+- black baggy pants
+- blue hoodie
+- brown jeans
 - 
 
 ### Also check out / References
