@@ -17,7 +17,7 @@
 - **Stakeholders:** Grocery Locator customers, recruiters: anywhere, viewers: anywhere.
 - **Date:** 11/17/2025
 - **Project background:** We’re creating a Grocery Locator app to help make grocery lists, check for sales and locate products in-store, so they can save time, money and frustration while shopping in store. Some patrons are frustrated with not finding some products in-store and end up spending more time in store or having to go to the store again.
-- **Research goals:** Figure out if a store-tailored list-maker and locator save people time, money and frustration.
+- **Research goals:** Figure out if a store-tailored list-maker and locator are useful in terms of time, money and frustration.
 
 ### Research questions
 
