@@ -1,5 +1,5 @@
 
-|                   | Urgent | Not urgent               |
-| ----------------- | ------ | ------------------------ |
-| **Important**     |        |                          |
-| **Not important** |        | - 2 for 1 promotions<br> |
+|                   | Urgent | Not urgent                                 |
+| ----------------- | ------ | ------------------------------------------ |
+| **Important**     |        |                                            |
+| **Not important** |        | - 2 for 1 promotions<br>- availability<br> |
