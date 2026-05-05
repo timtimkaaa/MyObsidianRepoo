@@ -1,4 +1,21 @@
-What do I need to see to commit:
+*2026-05-05*
+
+*Status:* New
+
+*Tags:* 
+
+<hr>
+
+Interests:
+- Drawing/painting
+	- air-brush
+	- comics
+	- 
+- 
+
+
+
+### What I need to see to commit
 - She can help me out of a rut
 - I can help her out of a rut
 - I can relate to her problems
@@ -10,3 +27,5 @@ What do I need to see to commit:
 - I can show affection with her love language
 - She can show affection with my love language
 - Her passion level fits mine
+
+### Also check out / References
