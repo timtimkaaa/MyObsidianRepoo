@@ -23,7 +23,8 @@ Hobbies:
 	- 
 - Clubbing
 	- Dancing casually
-	- Not meeting new people
+	- Prefers not meeting new people
+	- 
 
 
 
