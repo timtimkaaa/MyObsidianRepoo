@@ -8,7 +8,7 @@
 
 Pending questions:
 1. Will you date me???
-2. Is she inspired by light themes as opposed to only dark themes? Does she like cute and cozy?
+2. Is she inspired by light themes as opposed to only dark themes? Does she like cute and cozy? Or is it just the mystic part of it?
 3. 
 
 Hobbies:
@@ -32,7 +32,9 @@ Hobbies:
 
 
 What inspires her:
-She get's especially inspired by dark themes. For example Monster High dolls (and her OOAKS), Fran Bow, 
+She get's very inspired by dark themes. For example Monster High dolls (and her OOAKS), Fran Bow, her own art and photos. *I don't know yet* if darkness is just part of the mystic or if it's a separate inspiration.
+
+The mysti
 
 
 ### What I need to see to commit
