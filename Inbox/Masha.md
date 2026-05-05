@@ -32,9 +32,12 @@ Hobbies:
 
 
 What inspires her:
-She get's very inspired by dark themes. For example Monster High dolls (and her OOAKS), Fran Bow, her own art and photos. *I don't know yet* if darkness is just part of the mystic or if it's a separate inspiration.
 
-The mysti
+Mysticism
+She admitted herself that she loves mysticism. And I see it myself, because it's a big part of anything we talk about. She adores anything mystic, like Muse, Alice in Wonderland, 
+
+Dark themes
+She get's very inspired by dark themes. For example Monster High dolls (and her OOAKS), Fran Bow, her own art and photos. *I don't know yet* if darkness is just part of mysticism or if it's a separate inspiration.
 
 
 ### What I need to see to commit
