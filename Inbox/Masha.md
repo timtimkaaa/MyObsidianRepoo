@@ -6,10 +6,10 @@
 
 <hr>
 
-Interests:
+Hobbies:
 - Drawing/painting
 	- air-brush
-	- digit
+	- digital
 	- comics
 	- designing a book
 	- sewing 
@@ -17,8 +17,13 @@ Interests:
 		- doll clothes
 	- OOAKS (handmade dolls)
 	- 
-
-
+- Performing music
+	- MAINLY singing
+	- guitar
+	- 
+- Clubbing
+	- Dancing casually
+	- Not meeting new people
 
 
 
