@@ -9,9 +9,16 @@
 Interests:
 - Drawing/painting
 	- air-brush
+	- digit
 	- comics
+	- designing a book
+	- sewing 
+		- bags
+		- doll clothes
+	- OOAKS (handmade dolls)
 	- 
-- 
+
+
 
 
 
