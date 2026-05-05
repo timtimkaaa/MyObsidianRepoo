@@ -8,8 +8,8 @@
 
 Pending questions:
 1. Will you date me???
-2. Is she inspired by light themes as opposed to only dark themes? Does she like cute and cozy? Or is it just the mystic part of it?
-3. 
+2. Is she inspired by light themes as opposed to only dark themes? Does she like cute and cozy? Or is it just the mystic aspect of it?
+3. What does she see so appealing in mysticism? 
 
 Hobbies:
 - Drawing/painting
@@ -34,7 +34,7 @@ Hobbies:
 What inspires her:
 
 Mysticism
-She admitted herself that she loves mysticism. And I see it myself, because it's a big part of anything we talk about. She adores anything mystic, like Muse, Alice in Wonderland, 
+She admitted herself that she loves mysticism. And I see it myself, because it's a big part of anything we talk about. She adores anything mystic, like Muse, Alice in Wonderland ... *I wonder what exactly makes her like it*
 
 Dark themes
 She get's very inspired by dark themes. For example Monster High dolls (and her OOAKS), Fran Bow, her own art and photos. *I don't know yet* if darkness is just part of mysticism or if it's a separate inspiration.
