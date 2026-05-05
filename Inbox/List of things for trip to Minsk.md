@@ -18,11 +18,12 @@ Clothes
 - [ ] brown jeans
 - [ ] 
 - [ ] grey jacket
-- [ ] striped sweater
-- [ ] turtleneck
+- [x] striped sweater
+- [x] turtleneck
 - [x] 5 underpants 
 - [x] 4 black socks
 - [x] 2 brown socks
+- [ ] 3 T-shirts
 Gifts for friends
 - 
 Drawing tools
