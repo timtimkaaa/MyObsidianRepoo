@@ -6,6 +6,11 @@
 
 <hr>
 
+Pending questions:
+1. Will you date me???
+2. Is  she inspired by cute stuff too
+3. 
+
 Hobbies:
 - Drawing/painting
 	- air-brush
@@ -24,7 +29,10 @@ Hobbies:
 - Clubbing
 	- Dancing casually
 	- Prefers not meeting new people
-	- Prefer
+
+
+What inspires her:
+She get's specifically inspired by dark themes.
 
 
 
