@@ -26,7 +26,7 @@ ProductService
 + getProductPreviewsByStore(store)  
 + getProductById(id)
 
-Product
+Product (Product + ProductStore)
 - id  
 - name  
 - category  
@@ -113,8 +113,8 @@ Section
 - y
 
 StoreProduct
-- product_id
-- section_id
+- product_id (unique)
+- section_id (unique)
 - store_id
 - price
 
@@ -146,6 +146,8 @@ ShoppingList
 - name
 - user_id
 - created_at
+- updated_at
+- is_finished
 
 User 
 - user_id
