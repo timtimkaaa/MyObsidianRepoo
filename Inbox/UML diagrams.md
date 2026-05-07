@@ -91,6 +91,7 @@ AuthService
 StoreMapService (association (+ buildMap(sections, grid))) StoreMap (aggregation (- sections)) Section
 ProductService (association) Product (association (- section)) Section
 RoutePlanner (association (+ calculateRoute(products))) Product
+RoutePlanner (association (+ calculateRoute(products))) StoreMap
 ShoppingListService (association (+ markCollected(productId))) Product
 ShoppingListService (association (+ addItem(), removeItem(), sort())) ShoppingList (composition (- items)) ShoppingListItem (association (-product)) Product
 SyncService (association) ShoppingList
