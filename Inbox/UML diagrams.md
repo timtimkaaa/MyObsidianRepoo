@@ -16,7 +16,7 @@ StoreMap
 
 Section
 - id
-- store_id
+- storeId
 - name
 - x
 - y
