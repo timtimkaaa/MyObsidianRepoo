@@ -1,4 +1,5 @@
 ### Description
+
 This is an app that helps users plan their shopping and navigate the store quickly and efficiently.
 It allows to CRUD lists of products for a store on Lists screen, see prices with promotions, set quantity (or weight), sort the products. It let's users see promotions on Promotions screen. Users can search, sort and filter products on Search screen, see details about these products on Details screen and add them to different lists. The app has a Locate function to show the product's location on Locate screen with a map and a pin for the product (it doesn't show user's location). Lastly the app has a Navigation screen, where the user can see the optimal route for a list and check off an item they just got (thus letting the app know where they are in the store right now). 
 This app uses Supabase for backend (with their authentication system), JS for app logic and React Native for UI.
@@ -93,7 +94,7 @@ RoutePlanner (association (+ calculateRoute(products))) Product
 ShoppingListService (association (+ markCollected(productId))) Product
 ShoppingListService (association (+ addItem(), removeItem(), sort())) ShoppingList (composition (- items)) ShoppingListItem (association (-product)) Product
 SyncService (association) ShoppingList
-AuthService (association) AuthService
+AuthService (association) ShoppingList
 PromotionService (association (+ get promotionById(id))) Promotion
 
 ### ER diagram
