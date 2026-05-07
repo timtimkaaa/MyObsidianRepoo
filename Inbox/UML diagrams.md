@@ -6,6 +6,10 @@ This app uses Supabase for backend (with their authentication system), JS for ap
 
 ### Class diagram
 
+Store 
+- id
+- name
+
 StoreMapService
 + getSections()  
 + buildMap(sections, grid)
@@ -26,7 +30,7 @@ ProductService
 + getProductPreviewsByStore(store)  
 + getProductById(id)
 
-Product (Product + ProductStore)
+Product (combined Product and StoreProduct data)
 - id  
 - name  
 - category  
@@ -48,7 +52,7 @@ ShoppingListService
 + removeItem(list: ShoppingList)  
 + sort(list: ShoppingList)  
 + markCollected(productId)  
-+ markFinishied()
++ markFinished()
 
 ShoppingList
 - id  
@@ -58,8 +62,8 @@ ShoppingList
 - isFinished
 
 ShoppingListItem
-- ShoppingListId
-- ShoppingListItemId
+- shoppingListId
+- shoppingListItemId
 - product  
 - quantity  
 - isCollected
@@ -78,7 +82,7 @@ PromotionService
 Promotion
 - id  
 - product  
-- store  
+- storeId
 - picture  
 - description  
 - discountValue  
@@ -90,15 +94,16 @@ AuthService
 + getCurrentUser()  
 + isAuthenticated()
 
-StoreMapService (association (+ buildMap(sections, grid))) StoreMap (aggregation (- sections)) Section
+StoreMapService (association (+ buildMap(sections, grid))) StoreMap (aggregation (- sections)) Section (association (- storeId)) Store
 ProductService (association) Product (association (- section)) Section
+ProductService (association (+ getProductsByStore)) Store
 RoutePlanner (association (+ calculateRoute(products))) Product
 RoutePlanner (association (+ calculateRoute(products))) StoreMap
 ShoppingListService (association (+ markCollected(productId))) Product
-ShoppingListService (association (+ addItem(), removeItem(), sort())) ShoppingList (composition (- items)) ShoppingListItem (association (-product)) Product
+ShoppingListService (association (+ addItem(), removeItem(), sort())) ShoppingList (composition (- items)) ShoppingListItem (association (- product)) Product
 SyncService (association) ShoppingList
 AuthService (association) ShoppingList
-PromotionService (association (+ get promotionById(id))) Promotion
+PromotionService (association (+ get promotionById(id))) Promotion (association ( - storeId)) Store
 
 ### ER diagram
 
@@ -115,10 +120,11 @@ Section
 - y
 
 StoreProduct
-- product_id (unique)
-- section_id (unique)
+- product_id
+- section_id
 - store_id
 - price
+//UNIQUE (store_id, product_id)
 
 Promotion
 - promotion_id
@@ -156,7 +162,7 @@ User
 - email
 - first_name
 - last_name
-- password
+- password_hash
 
 Store 1:N Section
 Store 1:N StoreProduct
