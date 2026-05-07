@@ -58,6 +58,8 @@ ShoppingList
 - isFinished
 
 ShoppingListItem
+- ShoppingListId
+- ShoppingListItemId
 - product  
 - quantity  
 - isCollected
