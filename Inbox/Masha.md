@@ -6,7 +6,6 @@
 
 <hr>
 
-A
 ### Actions
 
 To watch together
