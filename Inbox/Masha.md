@@ -15,6 +15,7 @@ To watch together
 - David Choe
 - Alice in Wonderland
 - Ghibli
+- Ghost in the shell
 
 To discuss together
 - The golden temple
