@@ -1,0 +1,1 @@
+Pamiętasz, jak ci mówiłem, czym różni się „potrzebować” od „chcieć”? Nie potrzebujemy cię, bo to by oznaczało, że miałeś coś w nas naprawić, a my nigdy się nie popsuliśmy. Chcemy cię, Wallace. Całego, bez reszty. Ponieważ jesteśmy rodziną. Widzisz różnicę?
