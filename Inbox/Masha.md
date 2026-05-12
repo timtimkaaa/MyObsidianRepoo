@@ -16,6 +16,7 @@ To watch together
 - Alice in Wonderland
 - Ghibli
 - Ghost in the shell
+- Kubo and the two strings
 
 To discuss together
 - The golden temple
@@ -39,6 +40,7 @@ Pending questions:
 7. Does she like calmness and peacefulness?
 8. How exactly do meanings in songs work for her?
 9. *Why did she talk about manipulative people and wonder if they realize that they manipulate others?*
+10. How long have you been drawing for?
 
 ### Hobbies
 
@@ -98,17 +100,59 @@ She doesn't wear her heart on her sleeve and doesn't open up easily.
 
 
 
-### What I need to see to commit
+### What I need to see to commit (and how to see it)
+
 - She can help me out of a rut
+	- Vent about anxiety over coming back to Warsaw ✅
+	- Vent about job 
 - I can help her out of a rut
+	- Vent and wait for reciprocation...
+- She can relate to my problems (☑️ from Kirill)
+	- I don't like university ☑️
+	- I can't focus because I like to hang out too much
+	- I'm my biggest critic
+	- I feel pressure to achieve
 - I can relate to her problems
-- She can relate to my problems
+	- Tell my problems and ask wbu
 - I really enjoy spending time with her
-- Our mutual activities fulfill my needs and work together with my goals, interests, morals, ideals.
+- Our mutual activities fulfill my needs and work together with my goals, interests, morals, ideals
+	- Go draw together
+	- Go write stories together
+	- Go to an art gallery
 - She doesn't have any dealbreaker traits (against my morals or causing significant distress)
 - I feel comfortable showing affection to her
-- I can show affection with her love language
-- She can show affection with my love language
+	- Hold hands, smile, give her compliments, gifts, pay for her, etc.
+- I can show affection in her love language
+	- Try them and watch closely for the reaction
+	- Try words of affirmation
+		- Encourage 
+		- Appreciate achievements and effort
+		-  Give compliments
+	- Try physical touch
+		- Touch her accidentally and don't pull back
+		-  Take her hand and don't let go
+	- Try giving gifts
+		- Flowers
+		- Toys
+		- Handmade things
+		- Pay for her
+	- Quality time
+		- Come up with fun ways to spend time together 
+	- Try acts of service 
+		- Ask her how I can help with any problems
+		- Try and see any all troubles she's having and offer help
+- She can show affection in my love language
+	- My love languages are words of affirmation, physical touch and receiving gifts
+	- Let her know about them
+	- See if she listens and acts on it
+- I can learn from her in a sufficient number of ways
+	- See what she knows and what she can do
+	- Anything art-wise ✅
 - Her passion level fits mine
+	- Whenever you do something, try to see if she reciprocates 
+- She wants to become more confident and present (she can still want to be shy, but not insecure)
+	- Ask her about it
+- She's willing to be honest and straightforward with me
+	- Try to be honest and see if she reciprocates 
 
 ### Also check out / References
